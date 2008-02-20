@@ -1,0 +1,5 @@
+Au nom du peuple,
+
+La chambre des députés et la chambre des conseillers ayant adopté,
+
+Le Président de la République promulgue la loi organique dont la teneur suit :
