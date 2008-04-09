@@ -1,0 +1,9 @@
+Au nom du peuple,
+
+La chambre des députés et la chambre des conseillers ayant adopté,
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+TITRE PREMIER
+
+Dispositions générales et définitions
