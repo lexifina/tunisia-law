@@ -1,0 +1,3 @@
+# Article 93 (quinquiès)
+Les droits réels, constructions, ouvrages et équipements fixes ne peuvent être hypothéqués que pour garantir les emprunts contractés par le concessionnaire en vue de financer la réalisation, la modification ou l'extension des ouvrages, constructions et équipements réalisés dans le cadre de la concession.
+Les créanciers autres que ceux dont la créance est née à l'occasion de l'exécution des travaux mentionnés au paragraphe précédent ne peuvent pratiquer des mesures conservatoires ou des mesures exécutoires sur les droits et biens mentionnés au présent article. Les hypothèques grevant les droits réels, constructions, ouvrages et équipements fixes s'éteignent à l'expiration du contrat de concession.

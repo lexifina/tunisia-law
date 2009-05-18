@@ -1,0 +1,3 @@
+# Article 93 quater
+En cas de décès du concessionnaire, la concession et les droits réels qui en découlent peuvent être transférés aux héritiers sous réserve que la personne désignée, après accord entre eux, se présente au ministre chargé de l'aviation civile dans un délai de six mois à compter du décès et obtienne son accord.
+En cas de non accord entre les héritiers, chacun d'eux peut demander la désignation de leurs représentants en vertu d'une ordonnance sur requête prononcée par le président du tribunal de première instance de Tunis dans le délai prévu au premier paragraphe du présent article. Cette ordonnance ne peut faire l'objet d'aucun recours.
