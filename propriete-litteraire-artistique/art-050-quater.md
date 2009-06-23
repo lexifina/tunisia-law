@@ -1,0 +1,4 @@
+# Article 50 quater
+Les services des douanes procèdent dans les deux cas prévus aux articles 50 (bis) et 50-ter- de la présente loi à la rétention des produits lorsqu'ils constatent l'existence d'une atteinte aux droits d'auteur ou droits voisins.
+Les services des douanes informent immédiatement l'auteur ou les titulaires des droits voisins ou leur représentant ainsi que le propriétaire, l'importateur, l'exportateur ou le destinataire, de la rétention en leur accordant la possibilité d'examiner les produits retenus conformément aux dispositions du code des douanes, et sans atteinte au principe du secret des affaires.
+Afin de permettre à l'auteur ou aux titulaires des droits voisins ou à leur représentant d'engager des actions en justice, les services des douanes sont tenus de les informer du nom et de l'adresse du propriétaire, importateur, exportateur, ou destinataire s'il est connu, en vertu d'une ordonnance sur requête.
