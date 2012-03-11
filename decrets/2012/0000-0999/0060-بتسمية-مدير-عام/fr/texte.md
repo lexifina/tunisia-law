@@ -1,0 +1,3 @@
+Par décret n° 2012-60 du 2 mars 2012.
+Monsieur Hamed Chaabouni, inspecteur en chef des services financiers, est chargé des fonctions de directeur général de l'office des œuvres universitaires pour le Sud au ministère de l'enseignement supérieur et de la recherche scientifique.
+En application des dispositions de l’article 3 (nouveau) de la loi n° 88-137 du 3 décembre 1988, portant création de l’office des œuvres universitaires pour le Sud, telle que modifiée par la loi n° 96-90 du 6 novembre 1996, l'intéressé bénéficie des indemnités et avantages accordés à un directeur général d'administration centrale.
