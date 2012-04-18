@@ -1,0 +1,22 @@
+Par décret n° 2012-145 du 10 avril 2012.
+Les administrateurs en chef du corps administratif commun des administrations publiques dont les noms suivent sont nommés administrateurs généraux du corps administratif commun des administrations publiques :
+- Laâyouni Salah,
+- Fkih Ismaïl,
+- Ben Souf épouse Ben Amara Samira,
+- Zdini Salah,
+- Triter Ezzeddine,
+- Rahali chédli,
+- Jlidi Ezzeddine,
+- Touati Ben Saïda Latifa,
+- Latrach Essia,
+- Fadhel Belgacem,
+- Ben Saâd Mohamed Zakaria,
+- Snoussi Béchir,
+- Baccari Mouldi,
+- Laâbidi Mohamed Néjib,
+- Ben Salah Farhat,
+- Kadri épouse Kobbi Salwa,
+- Mejdoub Mohamed,
+- Cherni épouse Brini Fatiha,
+- Ben Hanini Mahmoud,
+- Abdeljaoued Sofiène.
