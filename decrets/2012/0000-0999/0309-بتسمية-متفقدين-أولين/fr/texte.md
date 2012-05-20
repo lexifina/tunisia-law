@@ -1,0 +1,22 @@
+Par décret n° 2012-309 du 11 mai 2012.
+Les inspecteurs des écoles préparatoires et des lycées secondaires dont les noms suivent sont nommés dans le grade d'inspecteur principal des écoles préparatoires et des lycées secondaires :
+- Noureddine Essafi,
+- Lamine Ayouni,
+- Ali Zitouni,
+- Mohamed Mednini,
+- Ridha Chiheb El Mekki,
+- Khemais Jemli
+- Mohamed Hedi Harboub,
+- Béchir Laabidi,
+- Hédi El Athmani,
+- Alia Mekki Chaabouni,
+- M'hamed Ghadhab,
+- Ali Triaa,
+- Hédi Tarchoun,
+- Ayed El Ayadi,
+- Mokhtar Ezzine,
+- Mouldi Taalouche,
+- Moufdi Jday,
+- Salah Marzouki,
+- Taoufik Graa,
+- Asma Abbes.
