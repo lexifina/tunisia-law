@@ -1,0 +1,20 @@
+Par décret n° 2012-404 du 17 mai 2012.
+Les médecins et les médecins principaux de la santé publique mentionnés ci-après sont nommés inspecteurs régionaux de la santé publique :
+- Lilia Sakhri Kandi,
+- Ridha Bouhali,
+- Abdelmajid Haddaji,
+- Samia Ben Mdalla,
+- Neila Chebaane épouse Ben Mansour,
+- Mondher Mofti,
+- Abdelwahab Harrabi,
+- Charfeddine Nsiri,
+- Mohamed Tahar Mabaouj,
+- Mohamed Lassaad Mdimegh,
+- Monji Soltani,
+- Taha Mkadmini,
+- Mounira Ben Nasr,
+- Alia Akara,
+- Mahmoud Slimani,
+- Sahbi Zribi,
+- Rbii Ismaili,
+- Riadh Chaouch.
