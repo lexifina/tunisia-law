@@ -1,0 +1,3 @@
+Par décret n° 2012-495 du 31 mai 2012.
+Monsieur Boulbaba Ben Rajeb, administrateur des domaines de l'Etat et des affaires foncières, est chargé des fonctions de chef du bureau des services communs à la direction régionale des domaines de l'Etat et des affaires foncières de Sfax au ministère des domaines de l'Etat et des affaires foncières.
+Et en application de l'article 5 du décret n° 2011-1017 du 21 juillet 2011, fixant les attributions et l'organisation des directions régionales des domaines de l'Etat et des affaires foncières, l'intéressé bénéficie des indemnités et avantages accordés à un chef de service d'administration centrale.
