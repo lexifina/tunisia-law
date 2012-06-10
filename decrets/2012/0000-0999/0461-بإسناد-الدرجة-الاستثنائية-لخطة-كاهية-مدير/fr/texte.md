@@ -1,0 +1,2 @@
+Par décret n° 2012-461 du 31 mai 2012.
+La classe exceptionnelle à l’emploi de sous-directeur d’administration centrale est accordé à Monsieur Noureddine Bouhlel, administrateur du service social, chargé des fonctions de sous-directeur au bureau du suivi des décisions du conseil des ministres, des conseils ministériels restreints et des conseils inter-ministériels au ministère des affaires sociales.
