@@ -1,0 +1,2 @@
+Par décret n° 2012-505 du 31 mai 2012.
+Madame Samia Hassan, administrateur conseiller des domaines de l'Etat et des affaires foncières, est chargée des fonctions de chef de service de vente des biens immeubles aux personnes physiques et morales autres que les conseils municipaux et régionaux à la direction générale de la gestion et des ventes au ministère des domaines de l'Etat et des affaires foncières.
