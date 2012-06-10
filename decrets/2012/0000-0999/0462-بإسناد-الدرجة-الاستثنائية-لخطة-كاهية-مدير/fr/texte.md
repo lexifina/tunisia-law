@@ -1,0 +1,2 @@
+Par décret n° 2012-462 du 31 mai 2012.
+La classe exceptionnelle à l’emploi de sous-directeur d’administration centrale est accordé à Madame Najet Hamaidi épouse Yahia, administrateur conseiller du service social, chargée des fonctions de sous-directeur de la formation et de l’évaluation à la direction de la lutte contre l’analphabétisme et de l’enseignement des adultes à la direction générale de la promotion sociale au ministère des affaires sociales.
