@@ -1,0 +1,2 @@
+Par décret n° 2012-492 du 31 mai 2012.
+Monsieur Thabet Hamdi, administrateur conseiller des domaines de l'Etat et des affaires foncières, est chargé des fonctions de sous-directeur des opérations et de suivi de l'exploitation des immeubles domaniaux à la direction régionale des domaines de l'Etat et des affaires foncières de la Mannouba au ministère des domaines de l'Etat et des affaires foncières.
