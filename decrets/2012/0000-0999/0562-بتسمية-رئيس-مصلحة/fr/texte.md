@@ -1,0 +1,2 @@
+Par décret n° 2012-562 du 31 mai 2012.
+Monsieur Sghaier Ghanmi, ingénieur principal, est chargé des fonctions de chef de service de collecte, d’analyse et d’exploitation des données à la sous-direction de l’analyse et de l’exploitation des données de recherche à la direction des structures de recherche à la direction générale de la recherche scientifique au ministère de l’enseignement supérieur et de la recherche scientifique.
