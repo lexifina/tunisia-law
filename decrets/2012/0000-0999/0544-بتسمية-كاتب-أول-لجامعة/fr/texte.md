@@ -1,0 +1,2 @@
+Par décret n° 2012-544 du 31 mai 2012.
+Madame Saloua Jouini épouse Raddaoui, administrateur conseiller, est chargée des fonctions de secrétaire principal d’université pour exercer les fonctions de sous-directeur de la recherche scientifique, de la coopération internationale et de l’évaluation universitaire à la direction des affaires académiques et du partenariat scientifique à l’université Ezzitouna.
