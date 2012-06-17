@@ -1,0 +1,2 @@
+Par décret n° 2012-594 du 2 juin 2012.
+La classe exceptionnelle à l’emploi de sous-directeur d’administration centrale est accordée à Monsieur Mefteh Jerbi, professeur principal de l’enseignement technique, chargé des fonctions de sous-directeur des affaires administratives et financières à la direction des services communs à l’office des œuvres universitaires pour le Nord au ministère de l’enseignement supérieur et de la recherche scientifique.
