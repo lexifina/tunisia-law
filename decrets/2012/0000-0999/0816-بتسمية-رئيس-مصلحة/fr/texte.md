@@ -1,0 +1,2 @@
+Par décret n° 2012-816 du 11 juillet 2012.
+Monsieur Mohamed Ali Belguith, administrateur conseiller, est chargé des fonctions de chef de service au bureau du suivi des décisions du conseil des ministres, des conseils ministériels et les conseils interministérielles et des relations avec l'assemblée nationale constituante au ministère des droits de l'Homme et de la justice transitionnelle, à compter du 18 février 2012.
