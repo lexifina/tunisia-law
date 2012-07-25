@@ -1,0 +1,2 @@
+Par décret n° 2012-822 du 11 juillet 2012.
+Monsieur Abdesalem Triki, administrateur, est chargé des fonctions de chef de service de la collecte des textes de la documentation, de la recherche et des études à la sous-direction de la promotion de la législation relative aux droits de l'Homme à la direction générale des droits de l'Homme au ministère des droits de l'Homme et de la justice transitionnelle, à compter du 1er juin 2012.
