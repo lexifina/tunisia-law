@@ -1,0 +1,2 @@
+Par décret n° 2012-899 du 24 juillet 2012.
+Monsieur Mokhtar Sghaier, administrateur en chef, est chargé des fonctions de directeur d'administration centrale chargé de l'évaluation et du suivi à l'unité de gestion par objectifs pour le suivi de l'exécution du programme d'appui à la mise en œuvre de l'accord d'association (P3A) et au plan d'action voisinage (2ème étape) entre la Tunisie et l'Union Européenne au ministère de l'investissement et de la coopération internationale.
