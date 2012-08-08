@@ -1,0 +1,2 @@
+Par décret n° 2012-948 du 24 juillet 2012.
+Monsieur Bassam Miaoui, technologue, est chargé des fonctions de chef de service des études techniques et de la planification à la sous-direction de la planification et des équipements à la direction des instituts supérieurs des études technologiques à la direction générale des études technologiques au ministère de l'enseignement supérieur et de la recherche scientifique.
