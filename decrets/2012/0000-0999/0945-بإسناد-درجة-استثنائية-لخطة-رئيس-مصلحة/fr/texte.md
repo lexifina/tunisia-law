@@ -1,0 +1,2 @@
+Par décret n° 2012-945 du 24 juillet 2012.
+La classe exceptionnelle à l'emploi de chef de service d'administration centrale est accordée à Madame Faouzia Ben Dakoum épouse Khlifi, gestionnaire conseiller de documents et d'archives chargée des fonctions de chef de service des archives intermédiaires à la direction de la gestion des documents et des archives à la direction générale des services communs au ministère de l'enseignement supérieur et de la recherche scientifique.
