@@ -1,0 +1,2 @@
+Par décret n° 2012-947 du 24 juillet 2012.
+Monsieur Wajdi Maalla, administrateur, est chargé des fonctions de chef de service des marchés des équipements et des études à la sous-direction du secrétariat permanent de la commission départementale des marchés publics à la direction des affaires financières à la direction générale des services communs au ministère de l'enseignement supérieur et de la recherche scientifique.
