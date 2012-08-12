@@ -1,0 +1,2 @@
+Par décret n° 2012-985 du 27 juillet 2012.
+Monsieur Amir Zenagui, inspecteur central des services financiers, est chargé des fonctions de chef de service du soutien de la compétitivité de l'entreprise à la direction du soutien des interventions conjoncturelles à l'unité d'incitation à l'investissement et des interventions conjoncturelles à la direction générale des avantages fiscaux et financiers au ministère des finances.
