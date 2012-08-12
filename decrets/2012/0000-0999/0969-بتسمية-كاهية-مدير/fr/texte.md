@@ -1,0 +1,2 @@
+Par décret n° 2012-969 du 27 juillet 2012.
+Monsieur Kamel Romdhani, inspecteur en chef des services financiers, est chargé des fonctions de sous-directeur de la communication fiscale à la direction de la communication et de la documentation fiscales à l’unité de la prospective et de la communication fiscales à la direction générale des études et de la législation fiscales au ministère des finances.
