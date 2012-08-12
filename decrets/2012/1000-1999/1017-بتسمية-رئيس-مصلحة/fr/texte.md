@@ -1,0 +1,2 @@
+Par décret n° 2012-1017 du 27 juillet 2012.
+Madame Imen Diouani épouse Azzabou, administrateur de la santé publique, est chargée des fonctions de chef de service de l'organisation des activités des services d'urgence à la sous-direction de l'organisation des activités à la direction de l'organisation hospitalière à la direction générale des structures sanitaires publiques au ministère de la santé.
