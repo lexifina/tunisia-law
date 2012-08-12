@@ -1,0 +1,2 @@
+Par décret n° 2012-970 du 27 juillet 2012.
+Madame Boutheina Thabet épouse Laabidi, conseiller des services publics, est chargée des fonctions de sous-directeur de la formation et de la coopération internationale à la direction de la formation et de la coopération internationale à l'unité des services communs, de la formation et de la coopération internationale à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
