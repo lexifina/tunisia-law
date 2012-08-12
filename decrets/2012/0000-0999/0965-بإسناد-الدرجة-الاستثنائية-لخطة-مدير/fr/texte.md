@@ -1,0 +1,2 @@
+Par décret n° 2012-965 du 27 juillet 2012.
+La classe exceptionnelle à l'emploi de directeur d'administration centrale est attribuée à Monsieur Sami Mekki, conseiller des services publics, chargé des fonctions de directeur des études en matière de la fiscalité des particuliers et de la fiscalité locale à l’unité des études fiscales à la direction générale des études et de la législation fiscales au ministère des finances.
