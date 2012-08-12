@@ -1,0 +1,2 @@
+Par décret n° 2012-978 du 27 juillet 2012.
+Monsieur Sadok Lourimi, inspecteur des services financiers, est chargé des fonctions de chef de service de coordination avec les autres structures à la sous-direction de l'organisation et de coordination à la direction de l'organisation et de coordination à l'unité de l'organisation et de coordination et de communication à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
