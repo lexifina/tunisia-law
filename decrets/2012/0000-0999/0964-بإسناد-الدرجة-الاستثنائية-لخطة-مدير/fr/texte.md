@@ -1,0 +1,2 @@
+Par décret n° 2012-964 du 27 juillet 2012.
+La classe exceptionnelle à l'emploi de directeur d'administration centrale est attribuée à Monsieur Lotfi Ben Issa, inspecteur en chef des services financiers, chargé des fonctions de directeur de la communication et de la documentation fiscales à l’unité de la prospective et de la communication fiscales à la direction générale des études et de la législation fiscales au ministère des finances.
