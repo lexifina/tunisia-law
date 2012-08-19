@@ -1,0 +1,2 @@
+Par décret n° 2012-1172 du 27 juillet 2012.
+Monsieur Sabeur Nouisri, inspecteur central des services financiers, est chargé des fonctions de sous directeur du suivi de l'exécution de la politique fiscale à la direction de la synthèse et de la prospective fiscale à l'unité de la prospective et de la communication fiscale à la direction générale des études et de la législation fiscales au ministère des finances.
