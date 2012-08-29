@@ -1,0 +1,2 @@
+Par décret n° 2012-1248 du 3 août 2012.
+La classe exceptionnelle à l'emploi de chef de service d'administration centrale est accordée à Monsieur Abdessattar Bessais, analyste, chargé des fonctions de chef de service des bourses et des aides sociales à la sous-direction des bourses, des prêts et des aides sociales à la direction des œuvres universitaires et de l'action sociale à l'office des œuvres universitaires pour le Nord au ministère de l'enseignement supérieur et de la recherche scientifique.
