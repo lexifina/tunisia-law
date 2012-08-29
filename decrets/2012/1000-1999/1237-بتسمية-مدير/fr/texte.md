@@ -1,0 +1,3 @@
+Par décret n° 2012-1237 du 3 août 2012.
+Monsieur Mohamed Larbi Ben Ayed, professeur principal hors classe, est chargé des fonctions de directeur d'établissement des œuvres universitaires de la catégorie (A) à la cité universitaire Ibn Jazzar à Sfax.
+En application des dispositions de l'article 4 du décret n° 95-2281 du 13 novembre 1995, l'intéressé bénéficie des indemnités et avantages accordés à un directeur d'administration centrale.
