@@ -1,0 +1,2 @@
+Par décret n° 2012-1249 du 3 août 2012.
+La classe exceptionnelle à l'emploi de chef de service d'administration centrale est accordée à Monsieur Mourad Mzoughi, administrateur conseiller, chargé des fonctions de chef de service de la gestion des ressources humaines, des recrutements et des examens à la direction des services communs à l'office des œuvres universitaires pour le Nord au ministère de l'enseignement supérieur et de la recherche scientifique.
