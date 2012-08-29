@@ -1,0 +1,2 @@
+Par décret n° 2012-1241 du 3 août 2012.
+La classe exceptionnelle à l'emploi de sous-directeur d'administration centrale est accordée à Madame Houda Ben Saida épouse Azaiez, professeur principal hors classe de l'enseignement, chargée des fonctions de sous-directeur de l'hébergement, de la restauration et d'animation culturelle et sportive à la direction des œuvres universitaires et de l'action sociale à l'office des œuvres universitaires pour le Nord au ministère de l'enseignement supérieur et de la recherche scientifique.
