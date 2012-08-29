@@ -1,0 +1,2 @@
+Par décret n° 2012-1252 du 3 août 2012.
+Madame Samia Dilou épouse Hbaiel, administrateur, est chargée des fonctions de chef de service des dépenses d'investissement dans les projets nationaux et régionaux à la sous-direction du budget d'équipement à la direction des affaires financières à la direction générale des services communs au ministère de l'enseignement supérieur et de la recherche scientifique.
