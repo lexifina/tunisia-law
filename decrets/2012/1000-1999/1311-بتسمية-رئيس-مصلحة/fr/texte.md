@@ -1,0 +1,2 @@
+Par décret n° 2012-1311 du 1er août 2012.
+Madame Amel Ben Salah, architecte en chef, est chargée des fonctions de chef de service du suivi et du contrôle de la réalisation des travaux de construction du campus universitaire de Bizerte à l'unité de gestion par objectif pour la réalisation des projets de construction de la faculté des sciences économiques et de gestion et l'institut des beaux arts de Nabeul et les campus universitaires de Zaghouan, Bizerte et Kélibia relavant de la direction générale des bâtiments civils au ministère de l'équipement.
