@@ -1,0 +1,3 @@
+Par décret n° 2012-1373 du 6 août 2012.
+Monsieur Hechmi Atoui, professeur principal d'éducation physique, est chargé des fonctions de chef de l'unité des activités sportives et de l'éducation physique au commissariat régional de la jeunesse, des sports et de l'éducation physique de Médenine au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 19 du décret n° 2008-2062 du 2 juin 2008, fixant l'organisation administrative et financière et les modalités de fonctionnement des commissariats régionaux de la jeunesse, des sports et de l'éducation physique, l'intéressé bénéficie de la fonction et des avantages de directeur d'administration centrale.
