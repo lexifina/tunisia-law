@@ -1,0 +1,3 @@
+Par décret n° 2012-1378 du 6 août 2012.
+Madame Lobna Sakhri, administrateur conseiller, est chargé des fonctions de chef de bureau des affaires administratives, financières et de l'équipement au commissariat régional de la jeunesse, des sports et de l'éducation physique de Jendouba au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 19 du décret n° 2008-2062 du 2 juin 2008, fixant l'organisation administrative et financière et les modalités de fonctionnement des commissariats régionaux de la jeunesse, des sports et de l'éducation physique, l'intéressée bénéficie de la fonction et des avantages de sous-directeur d'administration centrale.
