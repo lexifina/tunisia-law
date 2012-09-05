@@ -1,0 +1,2 @@
+Par décret n° 2012-1530 du 6 août 2012.
+Monsieur Saber Mansour, médecin vétérinaire sanitaire, est chargé des fonctions de chef de service de contrôle sanitaire des produits destinés à l'alimentation animale à la sous-direction de contrôle des produits alimentaires et des eaux à la direction de contrôle sanitaire des produits à l'agence nationale de contrôle sanitaire et environnemental des produits.
