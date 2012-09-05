@@ -1,0 +1,2 @@
+Par décret n° 2012-1520 du 6 août 2012.
+Il est mis fin aux fonctions de Madame Olfa Dachraoui, inspecteur de la jeunesse et de l'enfance, en qualité de chef de service des institutions et des programmes de la jeunesse à l'unité de développement des activités de la jeunesse au commissariat régional de la jeunesse, des sports et de l'éducation physique du Kef au ministère de la jeunesse et des sports, à compter du 29 juillet 2011.
