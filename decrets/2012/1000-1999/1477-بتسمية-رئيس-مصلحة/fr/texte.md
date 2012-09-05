@@ -1,0 +1,2 @@
+Par décret n° 2012-1477 du 6 août 2012.
+Monsieur Kamel Makaiz, architecte principal, est chargé des fonctions de chef de service du développement et du suivi des projets à la sous-direction de l’insertion professionnelle à la direction de partenariat avec l’environnement et de l’insertion professionnelle à la direction générale des études technologiques au ministère de l’enseignement supérieur et de la recherche scientifique.
