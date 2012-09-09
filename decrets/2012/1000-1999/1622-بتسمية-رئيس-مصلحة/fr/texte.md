@@ -1,0 +1,2 @@
+Par décret n° 2012-1622 du 14 août 2012.
+Monsieur Mourad Chaâfi, professeur principal de la jeunesse et de l'enfance, est chargé des fonctions de chef de service des institutions et des programmes de la jeunesse à l'unité de développement des activités de la jeunesse au commissariat régional de la jeunesse, des sports et de l'éducation physique de Manouba au ministère de la jeunesse et des sports.
