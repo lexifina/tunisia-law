@@ -1,0 +1,3 @@
+Par décret n° 2012-1797 du 21 août 2012.
+Monsieur Hassen Mahdi Maâmouri, administrateur conseiller de la santé publique, est chargé des fonctions de directeur de groupement de santé de base de Tunis¬ Nord (établissement hospitalier de la catégorie « A » au ministère de la santé).
+En application des dispositions du décret n° 81-1130 du 1er septembre 1981, l'intéressé bénéficie des indemnités et avantages attribués à l'emploi de directeur d'administration centrale.
