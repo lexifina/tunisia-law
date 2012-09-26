@@ -1,0 +1,2 @@
+Par décret n° 2012-1928 du 6 septembre 2012.
+Il est mis fin aux fonctions de Monsieur Irad Zaâfouri, professeur d'enseignement secondaire d'éducation physique, en qualité de chef de service des applications technologiques et du renouvellement technique à la direction de la formation et de la recherche, à la direction générale de l'éducation physique, de la formation et de la recherche au ministère de la jeunesse et des sports à compter du 1er août 2010.
