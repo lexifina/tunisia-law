@@ -1,0 +1,2 @@
+Par décret n° 2012-1938 du 6 septembre 2012.
+Madame Najoua Mahjoub, ingénieur des travaux, est chargée des fonctions de chef de service du suivi et de la coordination des travaux réalisés à l'unité de gestion par objectifs pour la réalisation des projets routiers financés par le fonds arabe du développement économique et social relevant de la direction générale des ponts et chaussées au ministère de l'équipement.
