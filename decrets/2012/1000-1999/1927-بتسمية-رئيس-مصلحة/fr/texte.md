@@ -1,0 +1,2 @@
+Par décret n° 2012-1927 du 6 septembre 2012.
+Il est mis fin aux fonctions de Monsieur Ali Aiba, inspecteur de l'éducation physique et des sports, en qualité de chef de service de l'éducation physique à l'unité des activités sportives et de l'éducation physique au commissariat régional de la jeunesse, des sports et de l'éducation physique de Tozeur au ministère de la jeunesse et des sports à compter du 23 décembre 2010.
