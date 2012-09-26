@@ -1,0 +1,3 @@
+Par décret n° 2012-1926 du 6 septembre 2012.
+Monsieur Hassan Trabelsi, bibliothécaire ou documentaliste, est chargé des fonctions de chef de cellule de la documentation et de la publication au département de la recherche, des études, de documentation et de communication à l'observatoire national du sport au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 6 (nouveau) du décret n° 2008¬-2038 du 26 mai 2008, modifiant le décret n° 2003-752 du 25 mars 2003, portant création de l'observatoire national du sport et fixant son organisation administrative et financière, l'intéressé bénéficie des indemnités et des avantages accordés à un chef de service d'administration centrale.
