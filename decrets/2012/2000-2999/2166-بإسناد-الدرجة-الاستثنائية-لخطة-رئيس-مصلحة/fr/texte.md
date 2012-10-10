@@ -1,0 +1,2 @@
+Par décret n° 2012-2166 du 20 septembre 2012.
+La classe exceptionnelle à l’emploi de chef de service d’administration centrale est accordée à Monsieur Noureddine Homri, ingénieur en chef, chargé des fonctions de chef de service des bâtiments et des équipements à la direction des services communs à l’office des œuvres universitaires pour le Nord au ministère de l’enseignement supérieur et de la recherche scientifique.
