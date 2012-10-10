@@ -1,0 +1,2 @@
+Par décret n° 2012-2172 du 20 septembre 2012.
+Madame Sonia Meddeb épouse Messabia, bibliothécaire ou documentaliste, est chargée des fonctions de chef de service de recrutement des enseignants technologues à la sous-direction des enseignants technologues à la direction des instituts supérieur des études technologiques à la direction générale des études technologiques au ministère de l’enseignement supérieur et de la recherche scientifique.
