@@ -1,0 +1,2 @@
+Par décret n° 2012-2202 du 20 septembre 2012.
+Madame Souhir Laadhari, administrateur de la santé publique, est chargée des fonctions de chef de service de contrôle environnemental des produits chimiques à la sous-direction de contrôle environnemental des produits chimiques et biologiques à la direction de contrôle environnemental des produits à l'agence nationale de contrôle sanitaire et environnemental des produits.
