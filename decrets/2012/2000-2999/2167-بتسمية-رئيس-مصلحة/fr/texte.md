@@ -1,0 +1,2 @@
+Par décret n° 2012-2167 du 20 septembre 2012.
+Monsieur Mohamed Bouazizi, ingénieur principal, est chargé des fonctions de chef de service de l’élaboration et de développement des programmes informatiques à la sous-direction de l’informatique à la direction des services communs à l’office des œuvres universitaires pour le Nord au ministère de l’enseignement supérieur et de la recherche scientifique.
