@@ -1,0 +1,2 @@
+Par décret n° 2012-2141 du 20 septembre 2012.
+Madame Dhouha Gammoudi épouse Rzig, administrateur conseiller, est chargée des fonctions de sous-directeur des programmes de partenariat scientifique euro-méditerranéen et multilatéral à la direction des programmes et du partenariat scientifique à la direction générale de la recherche scientifique au ministère de l’enseignement supérieur et de la recherche scientifique.
