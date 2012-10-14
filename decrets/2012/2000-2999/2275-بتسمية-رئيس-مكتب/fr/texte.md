@@ -1,0 +1,3 @@
+Par décret n° 2012-2275 du 28 septembre 2012.
+Madame Samia Hadhri épouse Karamti, professeur principal de la jeunesse et de l'enfance, est chargée des fonctions de chef de bureau des activités de la jeunesse à l'unité de développement des activités de la jeunesse au commissariat régional de la jeunesse, des sports et de l'éducation physique de l’Ariana au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 19 du décret n° 2008-2062 du 2 juin 2008, fixant l'organisation administrative et financière et les modalités de fonctionnement des commissariats régionaux de la jeunesse, des sports et de l'éducation physique, l'intéressée bénéficie de la fonction et des avantages de sous-¬directeur d'administration centrale.
