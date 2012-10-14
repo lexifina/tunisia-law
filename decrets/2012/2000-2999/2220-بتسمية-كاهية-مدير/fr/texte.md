@@ -1,0 +1,2 @@
+Par décret n° 2012-2220 du 28 septembre 2012.
+Monsieur Hamdi Charfi, gestionnaire conseiller de documents et d'archives, est chargé des fonctions de sous-directeur des organisations non gouvernementales à la direction de la coopération internationale avec les organisations à la direction générale des relations et de la coopération internationale au ministère des droits de l'Homme et de la justice transitionnelle, à compter du 1er juin 2012.
