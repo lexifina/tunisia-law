@@ -1,0 +1,2 @@
+Par décret n° 2012-2423 du 9 octobre 2012.
+La classe exceptionnelle à l’emploi de chef de service d’administration centrale est accordée à Monsieur Hedi Khamassi, analyste, chargé des fonctions de chef de service de la relation avec l’environnement à la sous-direction de partenariat avec l’environnement à la direction de partenariat avec l’environnement et de l’insertion professionnelle à la direction générale des études technologiques au ministère de l’enseignement supérieur et de la recherche scientifique.
