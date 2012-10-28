@@ -1,0 +1,22 @@
+Par décret n° 2012-2494 du 12 octobre 2012.
+Les inspecteurs principaux des écoles primaires et les inspecteurs principaux des écoles préparatoires et des lycées secondaires dont les noms suivent sont nommés dans le grade d'inspecteur général de l'éducation :
+- Majid Cherni,
+- Abdelhafidh Abidi,
+- Kamel Hajjem,
+- Fethi Ouedherfi,
+- Nesreddine Dridi,
+- Abdejelil Sioud,
+- Adel Haddad,
+- Abdelazziz El Béji Okkaz,
+- Abdellatif Ben Hamadou,
+- Chedia Belaïd épouse Mhersi,
+- Mohamed Salah Bouazizi,
+- Mohamed Mohsen Tlili,
+- Boubaker Herizi,
+- Mokhtar Jebali,
+- Ridha Sassi,
+- Rachad Chbil,
+- Mohamed Zouheir Salhi,
+- Abdelmajid Zeriaa,
+- Mohamed Raddaoui,
+- Rached Douari.
