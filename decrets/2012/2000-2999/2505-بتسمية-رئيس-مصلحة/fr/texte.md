@@ -1,0 +1,2 @@
+Par décret n° 2012-2505 du 12 octobre 2012.
+Madame Awatef Ayari épouse Bettibi, administrateur, est chargée des fonctions de chef de service des concours d'entrée aux instituts supérieurs des études technologiques à la sous-direction de la formation à la direction des instituts supérieurs des études technologiques à la direction générale des études technologiques au ministère de l'enseignement supérieur et de la recherche scientifique.
