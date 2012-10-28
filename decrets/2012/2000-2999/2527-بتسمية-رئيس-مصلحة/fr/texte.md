@@ -1,0 +1,2 @@
+Par décret n° 2012-2527 du 12 octobre 2012.
+Monsieur Imed Ben Hamed, technicien principal, est chargé des fonctions de chef de service de maintenance du matériel médico-chirurgical à la sous-direction de l'exploitation et de la maintenance des équipements médicaux techniques à la direction de l'exploitation et de la maintenance au centre d'études techniques et de la maintenance biomédicale et hospitalière.
