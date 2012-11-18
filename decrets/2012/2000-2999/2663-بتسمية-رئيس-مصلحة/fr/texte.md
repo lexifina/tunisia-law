@@ -1,0 +1,2 @@
+Par décret n° 2012-2663 du 6 novembre 2012.
+Mademoiselle Raoudha Sghaier, inspecteur central des services financiers au ministère des finances, est chargée des fonctions de chef de service à la sous-direction de l’évaluation des résultats à la direction de la programmation et de l’évaluation des résultats à l’unité de la programmation, de la coordination et de la conciliation administrative à la direction générale des impôts.
