@@ -1,0 +1,3 @@
+Par décret n° 2012-2706 du 6 novembre 2012.
+Monsieur Touhami Jafel, administrateur en chef des domaines de l'Etat et des affaires foncières, est chargé des fonctions de directeur régional des domaines de l'Etat et des affaires foncières de Gafsa au ministère des domaines de l'Etat et des affaires foncières.
+En application de l'article 2 du décret n° 2011-1017 du 21 juillet 2011, fixant les attributions et l'organisation des directions régionales des domaines de l'Etat et des affaires foncières, l'intéressé bénéficie des indemnités et avantages accordés à un directeur d'administration centrale.
