@@ -1,0 +1,2 @@
+Par décret n° 2012-2713 du 6 novembre 2012.
+Monsieur Noureddine Sassi, administrateur des domaines de l'Etat et des affaires foncières, est chargé des fonctions de chef de service des enquêtes et de suivi de l'exploitation des immeubles non agricoles de l'Etat a la direction régionale des domaines de l'Etat et des affaires foncières de l'Ariana au ministère des domaines de l'Etat et des affaires foncières.
