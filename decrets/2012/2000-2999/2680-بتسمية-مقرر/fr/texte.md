@@ -1,0 +1,3 @@
+Par décret n° 2012-2680 du 6 novembre 2012.
+Mademoiselle Samira Hajlaoui, inspecteur central des services financiers au ministère des finances, est chargée des fonctions de rapporteur de troisième classe pour diriger le groupe de travail chargé de la conciliation et du contentieux fiscal à la cellule du suivi et de l’assistance à un centre régional de contrôle des impôts relevant des services extérieurs de la direction générale des impôts.
+En application des dispositions de l’article 13 du décret n° 2008-94 du 16 janvier 2008, l’intéressée bénéficie du rang et des avantages accordés à un chef de service d’administration centrale.
