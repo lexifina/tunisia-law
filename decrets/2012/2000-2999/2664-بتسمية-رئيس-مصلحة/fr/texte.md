@@ -1,0 +1,2 @@
+Par décret n° 2012-2664 du 6 novembre 2012.
+Monsieur Kaies Mathlouthi, inspecteur central des services financiers au ministère des finances, est chargé des fonctions de chef de service à la sous-direction des recoupements et de la collecte des données à la direction des recoupements et de la collecte des donnés à l’unité de la programmation, de la coordination et de la conciliation administrative à la direction générale des impôts.
