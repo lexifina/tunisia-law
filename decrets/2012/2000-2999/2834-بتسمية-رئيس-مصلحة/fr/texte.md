@@ -1,0 +1,2 @@
+Par décret n° 2012-2834 du 20 novembre 2012.
+Monsieur Mohamed Hfaiedh, technicien supérieur major de la santé publique, est chargé des fonctions de chef de service de l'évaluation et de la carte sanitaire à la sous-direction de la promotion des structures et des établissements sanitaires publics à la direction de la promotion des prestations sanitaires à la direction régionale de la santé publique de Gabès.
