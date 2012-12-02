@@ -1,0 +1,2 @@
+Par décret n° 2012-2798 du 20 novembre 2012.
+Monsieur Mohsen Amri, professeur principal de l'enseignement secondaire, est chargé des fonctions de chef de service des normes et des programmes de l'enseignement secondaire à la sous-direction de la pédagogie et des normes de l'enseignement secondaire à la direction de la pédagogie et des normes du cycle préparatoire et de l'enseignement secondaire à la direction générale des programmes et de la formation continue au ministère de l'éducation.
