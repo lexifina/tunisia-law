@@ -1,0 +1,2 @@
+Par décret n° 2012-3015 du 4 décembre 2012.
+Monsieur Adel Ouni, inspecteur central des services financiers, est chargé des fonctions de sous-directeur pour diriger le groupe de travail chargé de la programmation et de l’exploitation des rapports d’inspection à la direction de l’inspection à l’unité de l’inspection et des contrôles comptables à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
