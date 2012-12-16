@@ -1,0 +1,2 @@
+Par décret n° 2012-3105 du 27 novembre 2012.
+Monsieur Mondher Boukadida, ingénieur principal, est chargé des fonctions de sous-directeur pour superviser la réalisation du barrage El Meleh et les ouvrages de déviation de ses eaux à l’unité de gestion pour objectifs pour la réalisation du projet des barrages Ezzaiatine, El Kamkoum, El Haraka, Ettine, Eddouimisse, El Maleh et les ouvrages de déviation de leurs eaux du gouvernorat de Bizerte au ministère de l’agriculture.
