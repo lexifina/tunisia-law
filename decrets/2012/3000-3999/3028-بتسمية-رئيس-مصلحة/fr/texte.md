@@ -1,0 +1,2 @@
+Par décret n° 2012-3028 du 4 décembre 2012.
+Monsieur Salah Hadjam, inspecteur central des services financiers, est chargé des fonctions de chef de service à la sous-direction de la gestion des ressources humaines à la direction de la gestion des ressources humaines à l’unité des services communs, de la formation et de la coopération internationale à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
