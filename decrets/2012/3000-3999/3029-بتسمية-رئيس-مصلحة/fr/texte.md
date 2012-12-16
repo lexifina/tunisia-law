@@ -1,0 +1,2 @@
+Par décret n° 2012-3029 du 4 décembre 2012.
+Madame Mounira Kalboussi, inspecteur central des services financiers, est chargée des fonctions de chef de service de ré-ingénierie des missions des recettes des finances à la sous-direction de ré-ingénierie des missions et procédures à la direction de l’organisation et de coordination à l’unité de l’organisation, de coordination et de communication à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
