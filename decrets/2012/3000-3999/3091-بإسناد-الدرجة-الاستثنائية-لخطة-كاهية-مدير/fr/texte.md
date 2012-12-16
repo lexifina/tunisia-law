@@ -1,0 +1,2 @@
+Par décret n° 2012-3091 du 27 novembre 2012.
+La classe exceptionnelle à l’emploi de sous-directeur d’administration centrale, est accordée à Monsieur Ajala Djelidi, médecin vétérinaire inspecteur régional, chargé des fonctions de sous-directeur à la production de la viande à la direction de la production animale et de la promotion de troupeaux relevant de la direction générale de la production agricole au ministère de l’agriculture.
