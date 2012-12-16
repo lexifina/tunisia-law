@@ -1,0 +1,2 @@
+Par décret n° 2012-3103 du 27 novembre 2012.
+Madame Sana Selma Smida épouse Gaddess, ingénieur principal, est chargée des fonctions de sous-directeur à l’unité centrale pour la coordination des deux projets de gestion des ressources naturelles et de développement rural intégré et de gestion des ressources naturelles et du programme d’exploitation des barrages collinaires aux gouvernorats de Siliana, le Kef, Zaghouan, Kasserine et Kairouan au ministère de l’agriculture.
