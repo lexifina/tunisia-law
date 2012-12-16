@@ -1,0 +1,2 @@
+Par décret n° 2012-3033 du 4 décembre 2012.
+Madame Midène Landolsi, inspecteur central des services financiers, est chargée des fonctions de chef de service à la sous-direction de l’organisation et des procédures disciplinaires à la direction de la gestion des ressources humaines à l’unité des services communs, de la formation et de la coopération internationale à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
