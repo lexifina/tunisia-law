@@ -1,0 +1,2 @@
+Par décret n° 2012-3032 du 4 décembre 2012.
+Monsieur Oussama Fares, inspecteur central des services financiers, est chargé des fonctions de chef de service à la sous-direction des études, des règles et procédures comptables de l’Etat à la direction des études et de la législation comptable de l’Etat à l’unité des études et de la législation comptable à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
