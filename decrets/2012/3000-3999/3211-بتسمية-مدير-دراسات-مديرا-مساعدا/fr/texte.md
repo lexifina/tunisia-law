@@ -1,0 +1,3 @@
+Par décret n° 2012-3211 du 5 décembre 2012.
+Monsieur Mohamed Jaraya, maître assistant de l'enseignement supérieur, est chargé des fonctions de directeur des études, directeur-adjoint à l'institut supérieur des sports et de l'éducation physique de Sfax au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 6 du décret n° 2009-2648 du 14 septembre 2009, fixant les missions et l'organisation administrative et financière des instituts supérieurs des sports et de l'éducation physique, l'intéressé bénéficie des avantages et indemnités alloués à un sous-directeur d'administration centrale.
