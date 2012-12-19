@@ -1,0 +1,2 @@
+Par décret n° 2012-3198 du 5 décembre 2012.
+Monsieur Khaled Amraoui, conseiller éducatif, est chargé des fonctions de chef de service du sport et des arts à la sous-direction de l'enseignement secondaire général à la direction de l'enseignement du cycle préparatoire et de l'enseignement secondaire général à la direction générale du cycle préparatoire et de l'enseignement secondaire au ministère de l'éducation
