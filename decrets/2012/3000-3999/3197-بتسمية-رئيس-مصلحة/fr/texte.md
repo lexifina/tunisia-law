@@ -1,0 +1,2 @@
+Par décret n° 2012-3197 du 5 décembre 2012.
+Madame Lamia Oualhazi, professeur de l'enseignement secondaire, est chargée des fonctions de chef de service de l'action éducative de l'enseignement secondaire à la sous-direction de la vie scolaire de l'enseignement secondaire à la direction de la vie scolaire du cycle préparatoire et de l'enseignement secondaire à la direction générale du cycle préparatoire et de l'enseignement secondaire au ministère de l'éducation.
