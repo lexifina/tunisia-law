@@ -1,0 +1,2 @@
+Par décret n° 2012-3204 du 5 décembre 2012.
+Monsieur Haymen Rezgui, professeur de l'enseignement secondaire, est chargé des fonctions de chef de service de la supervision de l'enseignement privé du cycle préparatoire et de l'enseignement secondaire à la direction de l'enseignement du cycle préparatoire et de l'enseignement secondaire général à la direction générale du cycle préparatoire et de l'enseignement secondaire au ministère de l'éducation
