@@ -1,0 +1,3 @@
+Par décret n° 2012-3212 du 5 décembre 2012.
+Madame Imen Belhedi épouse Guemir, gestionnaire conseiller de documents et d'archives, est chargée des fonctions de chef de bureau de coopération internationale et des relations extérieures à l'observatoire national de la jeunesse au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 11 du décret n° 2006-1042 du 13 avril 2006, fixant l'organisation administrative et financière de l'observatoire national de la jeunesse, l'intéressée bénéficie des indemnités et avantages accordés à un sous-directeur d'administration centrale.
