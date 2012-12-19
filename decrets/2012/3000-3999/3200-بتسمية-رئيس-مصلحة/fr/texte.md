@@ -1,0 +1,2 @@
+Par décret n° 2012-3200 du 5 décembre 2012.
+Madame Nejla Bouraoui, professeur de l'enseignement secondaire, est chargée des fonctions de chef de service des sciences à la sous-direction de l'enseignement secondaire général à la direction de l'enseignement du cycle préparatoire et de l'enseignement secondaire général à la direction générale du cycle préparatoire et de l'enseignement secondaire au ministère de l'éducation.
