@@ -1,0 +1,2 @@
+Par décret n° 2012-3203 du 5 décembre 2012.
+Monsieur Mohamed Adali, professeur de l'enseignement secondaire, est chargé des fonctions de chef de service de la formation et de la didactique dans les sciences humaines et les langues à la sous-direction de la formation du corps d'encadrement pédagogique et des enseignants des collèges et lycées à la direction de la formation continue à la direction générale des programmes et de la formation continue au ministère de l'éducation.
