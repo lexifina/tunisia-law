@@ -1,0 +1,2 @@
+Par décret n° 2012-3238 du 5 décembre 2012.
+Madame Nacira Boussaâdia, ingénieur principal, est chargée des fonctions de sous-directeur chargée de la coordination entre les différentes parties intervenantes à l'unité de gestion par objectifs pour l'achèvement de la réalisation du projet de construction de la cité de la culture de Tunis relevant de la direction générale des bâtiments civils au ministère de l'équipement.
