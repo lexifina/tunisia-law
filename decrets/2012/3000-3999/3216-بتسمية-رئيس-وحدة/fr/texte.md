@@ -1,0 +1,3 @@
+Par décret n° 2012-3216 du 5 décembre 2012.
+Madame Neïla Chemmam épouse El Kadhi, médecin de la santé publique, est chargée des fonctions de chef de l'unité de suivi du travail dans le domaine de la médecine et des sciences du sport dans les structures sportives au centre national de la médecine et des sciences du sport, au ministère de la jeunesse et des sports.
+En application des dispositions de l'article 18 du décret n° 2003-2651 du 23 décembre 2003, fixant l'organisation administrative et financière ainsi que les modalités de fonctionnement du centre national de la médecine et des sciences du sport, l'intéressée bénéficie des indemnités et des avantages alloués à un chef de service d'administration centrale.
