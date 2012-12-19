@@ -1,0 +1,2 @@
+Par décret n° 2012-3202 du 5 décembre 2012.
+Madame Houda Maghrebi, professeur de l'enseignement secondaire, est chargée des fonctions de chef de service de la carrière professionnelle du personnel des commissariats régionaux à la sous-direction de la gestion centrale du personnel des commissariats régionaux de l'éducation à la direction des affaires administratives à la direction générale des ressources humaines au ministère de l'éducation.
