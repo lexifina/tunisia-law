@@ -1,0 +1,2 @@
+Par décret n° 2012-3241 du 5 décembre 2012.
+La classe exceptionnelle à l'emploi de chef de service d'administration centrale est attribuée à Monsieur Amir Ksomtini, ingénieur principal, chef de service des études et des travaux à l'unité de gestion par objectifs pour le suivi de l'exécution de la réalisation du projet de réhabilitation et d'aménagement de la Sebkha de Ben Ghayada à Mahdia relevant de la direction générale des services aériens et maritimes au ministère de l'équipement.
