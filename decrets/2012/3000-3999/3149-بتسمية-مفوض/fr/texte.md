@@ -1,0 +1,3 @@
+Par décret n° 2012-3149 du 13 décembre 2012.
+Monsieur Chahbani Mohamed, inspecteur central des services financiers au ministère des finances, est chargé des fonctions de mandataire de troisième classe chargé du suivi des opérations de vérification fiscale à un bureau de contrôle des impôts de première catégorie à un centre régional de contrôle des impôts relevant des services extérieurs de la direction générale des impôts.
+En application des dispositions de l'article 19 du décret n° 2008-94 du 16 janvier 2008, l'intéressé bénéficie d'indemnités et des avantages accordés à un chef de service d'administration centrale.
