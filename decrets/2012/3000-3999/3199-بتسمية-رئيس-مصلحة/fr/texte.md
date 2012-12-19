@@ -1,0 +1,2 @@
+Par décret n° 2012-3199 du 5 décembre 2012.
+Madame Malika Harrath, professeur principal de l'enseignement secondaire, est chargée des fonctions de chef de service de la formation et de la didactique dans les sciences et techniques à la sous-direction de la formation du corps d'encadrement pédagogique et des enseignants des collèges et lycées à la direction de la formation continue à la direction générale des programmes et de la formation continue au ministère de l'éducation.
