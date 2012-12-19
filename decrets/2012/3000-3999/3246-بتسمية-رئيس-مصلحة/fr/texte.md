@@ -1,0 +1,2 @@
+Par décret n° 2012-3246 du 5 décembre 2012.
+Monsieur Salem Mrabtini, ingénieur principal, est chargé des fonctions de chef de service du suivi et du contrôle des travaux à l'unité de gestion par objectifs pour la réalisation des deux projets de construction de l'institut supérieur des études technologiques et de l'institut supérieur de l'informatique et des télécommunications de Borj Cedria relevant du ministère de l'équipement.
