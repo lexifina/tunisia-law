@@ -1,0 +1,2 @@
+Par décret n° 2012-3205 du 5 décembre 2012.
+Madame Narjes Touati, professeur de l'enseignement secondaire, est chargée des fonctions de chef de service avec rang et avantages de chef de service d'administration centrale chargé de la passation des marchés relatifs aux équipements informatiques à l'unité de gestion par objectifs pour la réalisation de projets éducatifs financés par des bailleurs de fonds internationaux et dans le cadre de la coopération bilatérale ou avec les groupements régionaux au ministère de l’éducation.
