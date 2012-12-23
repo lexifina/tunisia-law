@@ -1,0 +1,2 @@
+Par décret n° 2012-3287 du 13 décembre 2012.
+Monsieur Mahjoub Tlili, inspecteur des services financiers, est chargé des fonctions de chef de service de suivi de la responsabilité des régisseurs et des caissiers à la sous-direction de suivi de la responsabilité des comptables publics, des régisseurs et des caissiers à la direction de l’organisation et de coordination à l’unité de l’organisation et de coordination et de communication à la direction générale de la comptabilité publique et du recouvrement au ministère des finances.
