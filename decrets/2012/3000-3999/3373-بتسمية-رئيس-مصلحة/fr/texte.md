@@ -1,0 +1,2 @@
+Par décret n° 2012-3373 du 20 décembre 2012.
+Monsieur Wannes Ben Hmed, conseiller des services publics, est chargé des fonctions de chef de service de préparation des projets et programmes de développement agricole à la direction des projets et programmes de développement relavant de la direction générale des études et du développement agricole au ministère de l’agriculture, à compter du 19 avril 2012.
