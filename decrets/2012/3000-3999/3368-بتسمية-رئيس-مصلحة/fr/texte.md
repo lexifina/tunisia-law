@@ -1,0 +1,2 @@
+Par décret n° 2012-3368 du 20 décembre 2012.
+Monsieur Ibrahim Tarhouni, inspecteur des affaires économiques, est chargé des fonctions de chef de service du traitement des dossiers de contentieux et des relations avec les tribunaux dans les domaines relevant de ses attributions à la direction générale de la qualité, du commerce intérieur et des métiers et services au ministère du commerce et de l'artisanat.
