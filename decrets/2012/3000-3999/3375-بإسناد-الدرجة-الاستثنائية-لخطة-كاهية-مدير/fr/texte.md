@@ -1,0 +1,2 @@
+Par décret n° 2012-3375 du 20 décembre 2012.
+La classe exceptionnelle à l'emploi de sous-directeur d'administration centrale, est accordée à Madame Narjès Marsaoui, rédacteur adjoint d'actes de la conservation de la propriété foncière, chargée des fonctions de sous-directeur de l'accueil et des prestations de publicité foncière à la direction régionale de la conservation de la propriété foncière de Nabeul.
