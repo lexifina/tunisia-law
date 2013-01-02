@@ -1,0 +1,2 @@
+Par décret n° 2012-3360 du 20 décembre 2012.
+Madame Besma Trabelsi épouse Ben Maouia, inspecteur central des affaires économiques, est chargée des fonctions de sous-directeur des études et de l'organisation des activités commerciales à la direction du commerce intérieur à la direction générale de la qualité, du commerce intérieur et des métiers et services au ministère du commerce et de l'artisanat.
