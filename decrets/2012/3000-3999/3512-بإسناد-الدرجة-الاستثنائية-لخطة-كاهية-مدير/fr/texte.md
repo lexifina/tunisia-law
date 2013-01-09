@@ -1,0 +1,2 @@
+Par décret n° 2012-3512 du 28 décembre 2012.
+La classe exceptionnelle à l’emploi de sous-directeur d’administration centrale, est accordée à Monsieur Kamel Berkaoui, médecin vétérinaire inspecteur divisionnaire, chargé des fonctions de sous-directeur des aliments concentrés et des résidus des cultures à la direction des ressources fourragères et des parcours relevant de la direction générale de la production agricole au ministère de l’agriculture.
