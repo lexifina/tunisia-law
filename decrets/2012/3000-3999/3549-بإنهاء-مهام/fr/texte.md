@@ -1,0 +1,2 @@
+Par décret n° 2012-3549 du 28 décembre 2012.
+Il est mis fin aux fonctions de monsieur Hassan Trabelsi, professeur d'enseignement secondaire d'éducation physique, en qualité de chef de service de l'inspection pédagogique dans le premier cycle de l'enseignement de base à la direction de l'inspection pédagogique, à la direction générale de l'éducation physique, de la formation et de la recherche au ministère de la jeunesse et des sports à compter du 1er août 2012.
