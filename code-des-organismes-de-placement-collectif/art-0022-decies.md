@@ -1,0 +1,4 @@
+# Article 22 decies
+La cession des parts d'un fonds commun de placement à risque est possible dès leur souscription. Lorsque les parts n'ont pas été entièrement libérées, le souscripteur et les cessionnaires successifs sont tenus solidairement du montant non libéré de celles-ci.
+À défaut de libération par le porteur de parts durant les périodes fixées par la société de gestion des sommes restant à verser sur le montant des parts détenues, cette dernière lui adresse une mise en demeure par lettre recommandée avec accusé de réception, et si à l'expiration d'un délai d'un mois de la mise en demeure celle-ci est restée sans effet, la société de gestion peut procéder, sans aucune autorisation de justice, à la cession des parts.
+Toutefois, le souscripteur ou le cessionnaire qui a cédé ses parts cesse d'être tenu des versements non encore appelés par la société de gestion, deux ans après le virement de compte à compte des parts cédées.

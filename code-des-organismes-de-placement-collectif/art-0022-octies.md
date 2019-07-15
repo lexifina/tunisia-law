@@ -1,0 +1,4 @@
+# Article 22 octies
+Le gestionnaire d'un fonds commun de placement à risque est une société de gestion prévue par l'article 31 du présent code ou par l'article 20 de la loi n° 2005-96 du 18 octobre 2005 relative au renforcement de la sécurité des relations financières. Le gestionnaire assure la gestion du fonds pour le compte des porteurs de parts, en conformité avec les dispositions du présent code, et ce qui est prévu par son règlement intérieur.
+Dans ce cadre, il représente les porteurs de parts dans toute action en justice, tant en demande qu'en défense ainsi que pour tous les actes intéressant leurs droits et obligations et il exerce, en particulier, les droits rattachés aux valeurs mobilières comprises dans le fonds.
+Le gestionnaire ne peut pas emprunter pour le compte du fonds commun de placement à risque.

@@ -1,0 +1,2 @@
+# Article 22 sexies
+Les porteurs de parts de fonds ne peuvent pas demander le rachat de celles-ci avant l'expiration d'une période fixée dans son règlement intérieur qui ne peut excéder dix ans, et au terme de cette période, les porteurs de parts peuvent exiger la liquidation du fonds si les demandes de rachat n'ont pas été satisfaites dans un délai d'une année, à compter de la date de dépôt desdites demandes auprès du gestionnaire.

@@ -1,0 +1,2 @@
+# Article 22 ter
+Les fonds communs de placement à risque peuvent être constitués sous la forme de fonds qui emploient leurs actifs dans la souscription aux parts de fonds communs de placement à risque prévus par l'article 22 bis du présent code ou aux parts de fonds d'amorçage prévus par la loi n° 2005-58 du 18 juillet 2005.  Les conditions et les limites de ces emplois sont fixées par décret.
