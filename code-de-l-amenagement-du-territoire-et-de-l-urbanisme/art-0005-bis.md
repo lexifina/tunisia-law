@@ -1,0 +1,3 @@
+# Article 5 bis
+Les grandes surfaces commerciales dont la base de construction, lors de leur édification ou après leur extension, dépasse 3000 mètres carrés ou dont la surface de base réservée à la vente dépasse 1500 mètres carrés, ne peuvent être implantées qu'à l'extérieur des limites des zones couvertes par des plans d'aménagement urbain et à une distance supérieure ou égale à cinq kilomètres à partir des limites de ces zones.
+Les dispositions du paragraphe premier du présent article ne peuvent être dérogées que pour des raisons objectives relatives notamment aux exigences de l'organisation de l'espace urbain et par décret sur proposition du ministre chargé du commerce et du ministre chargé de l'aménagement du territoire et de l'urbanisme.

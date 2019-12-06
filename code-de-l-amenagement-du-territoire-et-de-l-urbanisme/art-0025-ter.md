@@ -1,0 +1,3 @@
+# Article 25 ter
+Les distances de servitude prévues par l'article 25 (nouveau) du présent code ne s'appliquent pas aux équipements publics et aux entreprises économiques dont l'activité exige la proximité du rivage de la mer ou la proximité des composantes du domaine public hydraulique énumérées à l'alinéa premier du même article, auquel cas leur implantation est soumise à une autorisation du ministre chargé de l'urbanisme après avis du ministre chargé des domaines de l'Etat, du ministre chargé de l'environnement et du ministre chargé de l'agriculture.
+Sont dispensés de cette autorisation, tous les ouvrages nécessaires à la sécurité de la navigation maritime et aérienne, à la défense nationale ou à la sécurité publique.
