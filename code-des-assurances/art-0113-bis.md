@@ -1,0 +1,4 @@
+# Article 113 bis
+Il est interdit à toute entreprise d'assurance de subordonner son acceptation de toute demande d'assurance de responsabilité civile prévue par l'article 110 du présent code à la souscription de garanties supplémentaires couvrant tout autre risque.
+Lorsqu'il est prouvé qu'une entreprise d'assurance subordonne son acceptation de demande d'assurance obligatoire à la souscription de garanties supplémentaires conformément aux dispositions du premier paragraphe de cet article, celle-ci sera redevable d'une amende de cinq mille à trente mille dinars, et ce, nonobstant les amendes qui peuvent être prononcées à titre individuel contre ses intermédiaires en infraction et qui varient entre mille et dix milles dinars.
+Le recouvrement des amendes prévues par le présent article est effectué au moyen d'un état de liquidation arrêté par le ministre des finances sur proposition du comité.
