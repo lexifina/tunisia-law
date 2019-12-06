@@ -1,0 +1,2 @@
+# Article 332 bis
+Le tribunal immobilier connaît des demandes de rectification des erreurs matérielles et celles concernant l'état civil, de calcul ou les chiffres contenues dans le jugement d'immatriculation, ou dans les plans établis par l'office de la topographie et de la cartographie. Le tribunal statue sur ces demandes, ordonne la rectification du jugement ou du plan ou rejette la demande. La demande de rectification ne peut être admise si l'acquisition des droits réels sur l'immeuble par des tiers de bonne foi est établie.
