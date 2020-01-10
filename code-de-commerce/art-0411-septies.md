@@ -1,0 +1,4 @@
+# Article 411 septies
+(Ajouté la loi n°2007-37- du 4 juin 2007) Toute personne, lorsqu'elle reçoit un chèque peut vérifier auprès du registre de la banque centrale mentionné à l'article précédent s'il est l'objet d'une opposition à son paiement en raison du vol, de la perte du chèque ou des interdictions prises à l'encontre du tireur ou la clôture du compte tiré, et ce, conformément aux conditions et aux procédures fixées par une circulaire de la banque centrale.
+Toute personne lorsqu'elle reçoit un chèque peut également, vérifier auprès de l'établissement bancaire tiré l'existence d'une provision suffisante au moment de ladite vérification, et ce, conformément aux conditions et aux procédures fixées par décret.
+Les établissements bancaires sont considérés civilement responsables de l'inexactitude des données dont ils ont informé la banque centrale ainsi que de tout retard accusé dans leur transmission.

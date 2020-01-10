@@ -1,0 +1,12 @@
+# Article 189 bis
+Tous les contrats relatifs au fonds de commerce doivent être rédigés par des avocats en exercice non stagiaires, à l'exception des contrats conclus par l'Etat, les collectivités locales et les établissements publics à caractère administratif, ainsi que les mainlevées de nantissement et les contrats dont la loi impose la conclusion par acte authentique.
+Les actes rédigés par des rédacteurs autres que ceux qui sont ci-dessus mentionnés sont frappés de nullité absolue. __________ Tout rédacteur d'un acte relatif à un fonds de commerce doit y insérer les mentions suivantes :
+1- les prénom, nom, adresse, numéro de la carte d'identité nationale, signature et cachet du rédacteur de l'acte,
+2- la mention qu'il a consulté le registre de commerce et le registre public des nantissements des fonds de commerce et qu'il a pris connaissance des indications qu'ils contiennent concernant le fonds de commerce objet de l'opération,
+3- la mention qu'il a informé les parties de la situation juridique du fonds de commerce sur lequel l'opération devra porter et de l'absence de tout empêchement légal à sa rédaction,
+4- les mentions indispensables à la rédaction de l'acte sur la base des données indiquées au registre de commerce et au registre public des nantissements des fonds de commerce,
+5- l'indication des formalités que les parties doivent accomplir pour l'inscription de l'opération au registre de commerce et au registre public des nantissements des fonds de commerce.
+L'Etat, les collectivités locales et les établissements publics à caractère administratif sont affranchis de la mention citée au n°1 de l'alinéa précédent lorsqu'ils procèdent à la rédaction de l'acte par leurs services.
+Le rédacteur de l'acte est responsable à l'égard des parties de toute violation des dispositions du présent article.
+Toute clause contraire est réputée non avenue.
+Toute personne dont les droits ont été atteints en raison de la violation des dispositions du présent article a le droit d'agir en réparation contre le rédacteur de l'acte.

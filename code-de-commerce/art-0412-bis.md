@@ -1,0 +1,4 @@
+# Article 412 bis
+Tout établissement bancaire doit payer, jusqu'à concurrence de 5.000 dinars, même en cas de défaut ou d'insuffisance de provision, le montant de tout chèque tiré sur lui au moyen de formules remises au tireur après l'interdiction qui lui a été faite d'utiliser les formules de chèques en blanc, et malgré la notification qui lui a été faite par la Banque Centrale.
+Par ce paiement, l'établissement bancaire se substitue légalement au bénéficiaire, dans toutes actions et droits à l'encontre du tireur du chèque ou de son endosseur, et dans les limites de ce qu'il a payé.
+Les dispositions des deux alinéas précédents s'appliquent à tout établissement bancaire qui délivre des formules de chèques à un client ouvrant un compte pour la première fois, sans se renseigner sur la situation du titulaire dudit compte auprès de la Banque Centrale de Tunisie conformément aux dispositions de l'article 410 (nouveau) du présent code.
