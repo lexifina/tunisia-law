@@ -1,0 +1,5 @@
+# Article 68 bis
+( Ajouté par l'Art. 52 de la L.F n° 2012-27 du 29 décembre 2012 ) Les marchés publics soumis au droit proportionnel sont enregistrés au droit minimum prévu par l'article 22 du présent code, dans ce cas, l'ordonnateur doit retenir le montant du droit proportionnel exigible sur les sommes dont il a ordonné le paiement au titre du marché et ce, par l'application du taux du droit sur le premier montant payé et le cas échéant sur les montants payés ultérieurement .
+Le comptable public ne peut viser les pièces de paiement relatives aux dépenses au titre du prix du marché ou de l'acompte que sur production de l'ordonnance de retenue.
+La même procédure est appliquée aux entreprises et établissements publics qui ne sont pas soumis aux dispositions du code de la comptabilité publique, à condition que l'acheteur public s'engage de retenir le montant du droit proportionnel exigible sur le premier montant payé et le cas échéant sur les montants payés ultérieurement et à condition de joindre l'engagement au contrat du marché lors de son enregistrement. .
+Enregistrement en débet

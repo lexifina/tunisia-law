@@ -1,0 +1,5 @@
+# Article 52 bis
+I. Est exonérée des droits d'enregistrement sur les successions, la transmission par décès de la totalité des immeubles et des meubles corporels et incorporels exploités au sein d'une entreprise ou d'une partie qui constitue une unité économique indépendante et autonome à condition :
+- que les héritiers et légataires s'engagent à continuer l'exploitation de l'entreprise pour une période de trois ans au moins à compter du premier janvier de l'année qui suit l'année du décès,
+- que les éléments d'actifs transmis soient inscrits à l'actif du bilan de l'entreprise à la date du décès.
+II. Les héritiers et légataires sont tenus de payer le droit d'enregistrement proportionnel exigible sur les successions majoré des pénalités de retard exigibles conformément à la législation en vigueur en cas d'arrêt de l'exploitation avant l'expiration de trois années à compter du premier janvier de l'année qui suit l'année du décès. Ces dispositions ne s'appliquent pas en cas d'arrêt de l'exploitation pour des raisons qui ne sont pas imputables aux héritiers ou légataires fixées par décret .
