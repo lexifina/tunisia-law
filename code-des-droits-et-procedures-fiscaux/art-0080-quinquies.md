@@ -1,0 +1,2 @@
+# Article 80 quinquies
+Les agents de la brigade des investigations et de la lutte contre l'évasion fiscale, munis de leurs cartes professionnelles, ont le droit de contrôler les marchandises transportées sur la voie publique, de fouiller les véhicules utilisés dans leur transport et de vérifier les pièces d'identité des personnes qui sont à leur bord et leurs effets. Les conducteurs de ces véhicules sont tenus d'obéir à leurs injonctions.

@@ -1,0 +1,3 @@
+# Article 84 octies
+Est punie d'une amende égale à 1000 dinars, toute personne qui manque aux dispositions du premier paragraphe de l'article 19 quater du code de la taxe sur la valeur ajoutée.
+Sans préjudice des dispositions du précédent paragraphe, est punie d'une amende égale à 1000 dinars par jour de retard avec un maximum fixé à 30.000 dinars, toute personne qui n'a pas rendu, dans le délai prévu par le quatrième paragraphe de l'article 47 du présent code, l'attestation de bénéfice de l'avantage fiscal prévu par l'article 19 quater du code de la taxe sur la valeur ajoutée et, le cas échéant, les bons de commande visés et non utilisés, sauf cas de force majeure dûment établis.

@@ -1,0 +1,2 @@
+# Article 81 bis
+Sous réserve des dispositions de l'article 81 du présent code, est perçue au titre de chaque déclaration fiscale entrainant un paiement de l'impôt déposée nonobstant la législation en vigueur relative à la souscription et au dépôt des déclarations fiscales par les moyens électroniques fiables à distance, une  amende au taux de 0.1% du montant du principal de l'impôt exigible avec un minimum de 200 dinars et un maximum de 2000 dinars .

@@ -1,0 +1,3 @@
+# Article 80 ter
+Sans préjudice des prérogatives attribuées aux services fiscaux dans la constatation et la poursuite des infractions fiscales pénales, les agents de la brigade des investigations et de la lutte contre l'évasion fiscale procèdent à la recherche des infractions fiscales pénales et à la collecte de ses preuves sur tout le territoire tunisien, tant qu'une décision d'ouvrir une information n'est pas encore prise.
+Les agents de la brigade des investigations et de la lutte contre l'évasion fiscale établissent également des rapports sur les infractions fiscales pénales pour lesquelles les procureurs de la République ont ouvert une information et exécutent les actes d'instruction requis par les juges d'instruction.

@@ -1,0 +1,3 @@
+# Article 80 sexies
+Nonobstant les dispositions de l'article 74 du présent code, les procureurs de la République peuvent procéder à des enquêtes portant sur les plaintes qui leur parviennent à propos des infractions fiscales pénales commises et charger les agents de la brigade des investigations et de la lutte contre l'évasion fiscale de faire certains actes relevant de leur compétence.
+Les juges d'instruction peuvent également constater les infractions fiscales pénales qu'ils ont pu découvrir au cours des actes d'instruction qu'ils font et d'en dresser des procès-verbaux, dont une copie est transmise, sans délai, aux services fiscaux compétents.

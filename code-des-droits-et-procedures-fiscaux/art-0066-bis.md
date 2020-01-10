@@ -1,0 +1,2 @@
+# Article 66 bis
+Sous réserve des dispositions de l'article 123 du code de procédure civile et commerciale, les jugements prononcés par les tribunaux dans les recours portant opposition contre les arrêtés de taxation d'office doivent contenir, en plus des montants prononcés au titre du principal des droits et des pénalités, les rectifications relatives au crédit d'impôt, aux reports déficitaires et aux amortissements différés.

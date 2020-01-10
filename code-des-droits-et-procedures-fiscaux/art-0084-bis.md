@@ -1,0 +1,5 @@
+# Article 84 bis
+Les établissements qui procèdent à des opérations de transfert de revenus ou bénéfices sans observer les conditions prévues par l'article 112 du présent code sont punis d'une amende fiscale administrative de :
+- 20% des revenus ou bénéfices transférés, s'il s'agit de transfert de revenus ou bénéfices soumis à l'impôt en Tunisie,
+- 1% des revenus ou bénéfices transférés, s'il s'agit de transfert de revenus ou bénéfices non soumis à l'impôt en Tunisie.
+Article 84 « ter » .- Tout bénéficiaire du régime de suspension de la TVA qui n'aura pas procédé à l'apurement des bons de commande visés par les services du contrôle fiscal conformément à la réglementation en vigueur est puni d'une amende fiscale administrative d'un montant de 2000 dinars au titre de chaque bon de commande non apuré ou non présenté, et ce, pour les cinq premiers bons de commande. Pour le reliquat des bons de commande, l'amende est relevée à 5000 dinars au titre de chaque bon de commande non apuré ou non présenté.

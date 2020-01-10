@@ -1,0 +1,3 @@
+# Article 44 bis
+Lorsque le contribuable formule son opposition aux résultats de la vérification fiscale dans les délais prévus par l'article 44 du présent code, l'administration fiscale doit répondre par écrit à l'opposition du contribuable « dans un délai ne dépassant pas 6 mois à compter de la date de ladite opposition » . Le rejet partiel ou total par l'administration fiscale de l'opposition du contribuable doit être motivé. Cette réponse est notifiée conformément aux procédures prévues par l'article 10 du présent code.
+Est accordé au contribuable un délai de quinze jours à compter de la date de la notification de la réponse de l'administration fiscale, pour formuler par écrit ses observations, oppositions et réserves relatives à cette réponse.

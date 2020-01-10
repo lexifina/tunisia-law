@@ -1,0 +1,2 @@
+# Article 105 bis
+Est punie d'une amende pécuniaire de 10.000 dinars à 100.000 dinars, toute personne qui utilise l'attestation de bénéfice de l'avantage fiscal prévu par l'article 19 quater du code de la taxe sur la valeur ajoutée ou les bons de commande visés et ce après sa mise en demeure par l'administration fiscale, conformément aux dispositions du quatrième paragraphe de l'article 47 du présent code.

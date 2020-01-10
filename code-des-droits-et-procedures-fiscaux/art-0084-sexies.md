@@ -1,0 +1,2 @@
+# Article 84 sexies
+Est puni d'une amende administrative égale à 50% du montant de la taxe et du droit objet de la suspension, tout assujetti à la taxe sur la valeur ajoutée ayant effectué des ventes en suspension de la taxe sur la valeur ajoutée et des droits et taxes dus sur le chiffre d'affaires sur la base des attestations générales et sans qu'il dispose des originaux des bons de commande devant être présentés par le bénéficiaire du régime suspensif de la taxe sur la valeur ajoutée.
