@@ -1,0 +1,4 @@
+# Article 335 quinquies
+Le procureur de la République, en appelant les parties à la transaction, prend en considération leurs intérêts et consigne les accords conclus entre les parties dans un procès-verbal coté dans lequel il les avise des obligations et des conséquences qui découlent de la transaction. Il doit leur rappeler les dispositions de la loi et leur fixer un délai pour l'exécution de toutes les obligations qui résultent de la transaction sans que ce délai ne dépasse six mois à compter de la date de sa signature.
+Le procureur de la République peut, exceptionnellement, et en cas de nécessité absolue, proroger ce délai de trois mois une seule fois par décision motivée.
+Le procès-verbal doit être lu aux parties qui doivent en signer chaque page. De même il doit être signé par le procureur de la République, le greffier et, s'il y a lieu, l'avocat et l'interprète.

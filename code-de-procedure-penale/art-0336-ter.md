@@ -1,0 +1,6 @@
+# Article 336 ter
+Le représentant du ministère public poursuit l'exécution de la peine de réparation pénale.
+Le délai d'exécution de la peine de réparation pénale prend effet à compter de la date d'expiration du délai d'appel pour le jugement pénal rendu en premier ressort ou de la date du prononcé du jugement définitif.
+Un écrit à date certaine prouvant l'exécution de la peine ou la consignation du montant de la réparation pénale doit être présenté au représentant du ministère public près le tribunal qui a rendu le jugement prononçant la peine de réparation pénale dans le délai prévu par l'article 15 quater du code pénal.
+A défaut de présentation des moyens prouvant l'exécution de la peine de réparation pénale dans le délai prévu par l'article 15 quater du code pénal, le représentant du ministère public poursuivra les procédures d'exécution de la peine d'emprisonnement déjà prononcée.
+Si le condamné est détenu en vertu d'un mandat d'arrêt, le ministère public informe l'administration pénitentiaire de l'ordre de mise en liberté de l'inculpé s'il est établi que le jugement n'a pas fait l'objet d'un pourvoi en appel et que les dispositions du jugement de la peine de réparation pénale ont été exécutées dans le délai légalement prévu.
