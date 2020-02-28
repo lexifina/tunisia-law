@@ -1,0 +1,4 @@
+# Article 354 bis
+(Ajouté art 60 L.F. n° 2016-78 du 17 décembre 2016).-
+1- Le juge d'instruction communique à l'administration des douanes chargée des poursuites dans les affaires douanières ou de change, par écrit et dès leur promulgation, les ordonnances, notamment celles ordonnant un non-lieu ou une restitution des objets saisis. L'administration des douanes peut interjeter appel dans un délai de dix jours à partir de la date de l'ordonnance.
+2- La chambre d'accusation communique à l'administration des douanes chargée des poursuites dans les affaires douanières ou de change, par écrit et dès leur promulgation, les ordonnances, notamment celles ordonnant un non-lieu ou une restitution des objets saisis. L'administration des douanes peut interjeter appel dans un délai de dix jours à partir de la date de l'ordonnance.
