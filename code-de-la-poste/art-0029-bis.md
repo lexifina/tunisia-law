@@ -1,0 +1,3 @@
+# Article 29 bis
+Sera puni d'un emprisonnement de seize jours à six mois et d'une amende de 120 à 1.200 Dinars, ou de l'une de ces deux peines seulement quiconque aura expédié par l'administration des postes et téléphones une correspondance à découvert contenant une diffamation soit envers les particuliers, soit envers les corps ou les personnes désignés par les articles 48 et 51 à 53 du présent code.
+Si la correspondance contient une injure cette expédition sera punie d'un emprisonnement de seize jours à deux mois et d'une amende de 120 à 1.200 Dinars, ou de l'une de ces deux peines seulement.
