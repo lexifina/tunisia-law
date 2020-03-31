@@ -1,0 +1,8 @@
+# Article 256 bis
+La création d'un comité permanent d'audit est obligatoire pour :
+- les sociétés faisant appel public à l'épargne à l'exception des sociétés classées comme telles du fait de l'émission d'obligations,
+- la société mère lorsque le total de son bilan au titre des états financiers consolidés dépasse un montant fixé par décret,
+- les sociétés qui remplissent les limites chiffrées fixées par décret relatives au total du bilan et au total de leurs engagements auprès des établissements de crédit et de l'encours de leurs émissions obligataires.
+Le comité permanent d'audit veille au respect par la société de la mise en place de systèmes de contrôle interne performant de nature à promouvoir l'efficience, l'efficacité, la protection des actifs de la société, la fiabilité de l'information financière et le respect des dispositions légales et réglementaires. Le comité assure le suivi des travaux des organes de contrôle de la société, propose la nomination du ou des commissaires aux comptes et agrée la désignation des auditeurs internes.
+Le comité permanent d'audit est composé de trois membres au moins, désignés selon le cas par le conseil d'administration ou le conseil de surveillance parmi leurs membres.
+Ne peut « être » membre du comité permanent d'audit, le président-directeur général ou le directeur général ou le directeur général adjoint.  Les membres du comité permanent d'audit peuvent recevoir, en rémunération de l'exercice de leur activité, une somme fixée et imputée selon les conditions mentionnées à l'article 204 du code des sociétés commerciales relatif aux jetons de présence.

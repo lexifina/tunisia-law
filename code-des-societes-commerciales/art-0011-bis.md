@@ -1,0 +1,7 @@
+# Article 11 bis
+En sus des registres et documents prévus par la législation en vigueur, la société doit tenir :
+- un registre mentionnant les noms, prénoms et adresses de chacun des dirigeants et des membres de conseil de surveillance ;
+- un registre des parts ou valeurs mobilières mentionnant notamment les indications relatives aux titres objet dudit registre, l'identité de leurs propriétaires respectifs, les opérations dont ils ont fait l'objet ainsi que les charges et droits grevant les titres en question, et ce, sous réserve des dispositions de la loi n° 2000-35 du 21 mars 2000 relative à la dématérialisation des titres.
+Les associés ont le droit d'obtenir des extraits desdits registres, dans les conditions prévues à l'article 11 précité, pendant les horaires habituels de travail à la société.
+Toutefois, concernant les sociétés anonymes faisant appel public à l'épargne, l'actionnaire peut consulter le registre des valeurs mobilières dans la limite de ce qui se rapporte à sa participation. Dans les autres cas, la consultation peut être faite en vertu d'une ordonnance sur requête du président du Tribunal de première instance dans le ressort duquel se trouve le siège de la société, si le demandeur justifie d'un intérêt légitime.
+La liste des actionnaires dans la société anonyme doit en outre être mise à la disposition de ces derniers, au moins quinze jours avant chaque assemblée générale des actionnaires.
