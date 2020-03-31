@@ -1,0 +1,5 @@
+# Article 51 sexies
+(Ajouté Art.29-1 LF n°2015-53 du 25/12/2015) .- Les entreprises de production industrielle et les entreprises exerçant dans le secteur du commerce sont tenues d'appliquer un taux de 3% sur leurs ventes au profit des intervenants dans la distribution de marchandises, de produits et de services ne réalisant pas de bénéfices industriels ou commerciaux au titre d'une autre activité, lorsque la valeur totale des marchandises ou des services acquis ne dépasse pas 20.000 dinars par an.
+Ledit taux est calculé conformément aux dispositions du premier paragraphe ci-dessus est libératoire de l'impôt sur le revenu pour lesdits intervenants.
+La déclaration du montant susmentionné et son paiement ont lieu au cours du mois qui suit celui au cours duquel il a été facturé, et ce, dans les délais prévus pour la retenue à la source. Le contrôle et la constatation des infractions et le contentieux y afférents s'effectuent conformément aux procédures en vigueur en manière de retenue à la source.
+2. Retenues à la source

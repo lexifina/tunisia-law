@@ -1,0 +1,5 @@
+# Article 51 bis
+(Ajouté Art.44 LF n°93-125 du 27/12/93) .-
+I. Les sociétés et groupements visés à l'article 4 du présent code à l'exclusion des fonds communs de créances sont soumis au paiement d'une avance au titre de l'impôt sur le revenu des personnes physiques ou de l'impôt sur les sociétés dû sur les revenus de leurs associés ou membres. (Modifié Art.58 LF n°2001-123 du 28/12/2001)
+II. L'avance est due au taux de 25% sur la base des bénéfices réalisés au titre de l'année précédente. (Modifié Art.44 LF n°97-88 du 29/12/97 et Art.55 LF n°99-101 du 31/12/99) Ce taux est réduit à 10% pour les bénéfices soumis à l'impôt sur les sociétés au taux de 10% au niveau des associés et des membres conformément au présent code, ainsi que pour les bénéfices revenant aux associés et aux membres personnes physiques bénéficiant de la déduction des deux tiers des revenus conformément au présent code. .
+III. La déclaration de l'avance et son paiement s'effectuent dans les délais visés au deuxièmement du paragraphe I de l'article 60 du présent code.

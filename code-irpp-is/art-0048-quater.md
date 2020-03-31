@@ -1,0 +1,11 @@
+# Article 48 quater
+(Ajouté Art.14 LF n°2006-85 du 25/12/2006 portant encouragement de la transmission des entreprises) .-
+I. Sous réserve des dispositions de l'article 12 de la loi n°89-114 du 30 décembre 1989 portant promulgation du code de l'impôt sur le revenu des personnes physiques et de l'impôt sur les sociétés, les  personnes morales qui acquièrent des entreprises dans le cadre du paragraphe II de l'article 11 bis du présent code bénéficient de la déduction des bénéfices réinvestis à cette fin et ce, dans la limite des bénéfices soumis à l'impôt sur les sociétés de l'année de l'acquisition. La déduction est accordée sur décision du Ministre des Finances ou toute personne déléguée par le Ministre des Finances à cet effet.
+Le bénéfice de la déduction est subordonné à :
+- l'exercice par l'entreprise cédée de son activité dans les secteurs prévus par le chapitre IV du présent code,
+- la poursuite de l'exploitation de l'entreprise ou de l'unité cédée par l'entreprise cessionnaire pendant une période de trois ans au moins à compter du premier janvier de l'année qui suit celle de l'acquisition,
+- la tenue d'une comptabilité conforme à la législation comptable des entreprises,
+- la production à l'appui de la déclaration annuelle de l'impôt de l'année de la déduction d'un état des éléments acquis dans le cadre du paragraphe II de l'article 11 bis précité comportant notamment la valeur d'acquisition et d'une copie de la décision du Ministre des Finances précitée.
+L'entreprise bénéficiaire de la déduction est tenue du paiement de l'impôt non acquitté au titre des montants réinvestis majoré des pénalités de retard exigibles conformément à la législation en vigueur et ce, en cas d'arrêt de l'exploitation de l'entreprise acquise avant l'expiration des trois années suivant celle de la déduction. Ces dispositions ne s'appliquent pas en cas d'arrêt de l'exploitation pour des motifs qui ne sont pas imputables à l'entreprise bénéficiaire fixés par décret .
+II.
+- L'avantage fiscal prévu par le présent article n'est pas accordé aux opérations de souscription destinées à l'acquisition de terrains. . 

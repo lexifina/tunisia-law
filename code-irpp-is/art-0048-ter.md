@@ -1,0 +1,2 @@
+# Article 48 ter
+(Ajouté Art.5 loi n°2005-56 du 18 juillet 2005, relative à l'essaimage des entreprises économiques ).- Les entreprises qui font recours à la technique de l'essaimage, telle que définie par la législation en vigueur, peuvent déduire les dépenses engagées pour la réalisation de l'opération d'essaimage de l'assiette de l'impôt de l'année au titre de laquelle les dépenses ont été engagées, et ce, dans des limites et selon des conditions qui seront fixées par décret .

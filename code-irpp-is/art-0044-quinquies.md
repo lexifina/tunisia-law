@@ -1,0 +1,3 @@
+# Article 44 quinquies
+Nonobstant les dispositions de l'article 44 ter du présent code, l'impôt annuel sur le revenu au titre des bénéfices industriels et commerciaux est déterminé en cas de cession par les personnes soumises au régime forfaitaire, du fonds de commerce, sur la base du barème de l'impôt sur le revenu prévu par le paragraphe I de l'article 44 du présent code sans que l'impôt dû sur cette base ne soit inférieur à l'impôt forfaitaire dû selon le chiffre d'affaires.
+Le bénéfice soumis à l'impôt est déterminé dans ce cas sur la base de la différence entre les recettes et les dépenses relatives à l'année concernée, augmentée de la plus value de cession du fonds de commerce.
