@@ -1,0 +1,2 @@
+# Article 381 bis
+Les conventions collectives ou les accords collectifs peuvent contenir une clause compromissoire en ce qui concerne les conflits qui pourraient surgir. Dans ce cas, le conflit est porté directement par la partie la plus diligente devant les conseils d'arbitrage conformément aux procédures prévues par le présent code, sauf dispositions particulières contenues dans les conventions collectives ou accords collectifs.
