@@ -1,0 +1,2 @@
+# Article 63 ter
+Le personnel de l'instance nationale des télécommunications est soumis aux dispositions de la loi n° 85-78 du 5 août 1985, portant statut général des agents des offices, des établissements publics à caractère industriel et commercial et des sociétés dont le capital appartient directement et entièrement à l'Etat ou aux collectivités publiques locales, telle que modifiée et complétée par la loi n° 99-28 du 3 avril 1999.

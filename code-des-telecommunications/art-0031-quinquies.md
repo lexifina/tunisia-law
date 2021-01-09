@@ -1,0 +1,2 @@
+# Article 31 quinquies
+La fourniture d'un point d'échange internet est soumise à l'autorisation préalable du ministre chargé des télécommunications, après avis de l'instance nationale des télécommunications. Les conditions et les procédures d'attribution de cette autorisation sont fixées par décret. L'attribution de l'autorisation est soumise au paiement d'une redevance fixée conformément aux critères déterminés par le décret prévu au premier paragraphe du présent article. .

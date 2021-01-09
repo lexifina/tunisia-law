@@ -1,0 +1,5 @@
+# Article 38 bis
+Les opérateurs des réseaux publics des télécommunications sont tenus de permettre aux autres opérateurs des réseaux publics et aux opérateurs d'accès d'exploiter les composantes et les ressources de leurs réseaux relatifs au dégroupage de la boucle locale, à la colocalisation physique et à l'utilisation commune de l'infrastructure.
+La convention prévue par l'article 36 du présent code fixe les conditions techniques et financières pour l'exploitation des composantes et des ressources de ces réseaux, faute de quoi, l'Instance Nationale des télécommunications, sur demande de l'une des parties, prend une décision finale concernant les aspects relatifs aux conditions techniques et financières de l'exploitation des composantes et des ressources de ces réseaux.
+L'offre technique et tarifaire de l'interconnexion prévue par l'article 38 du présent code doit comporter les conditions techniques et financières d'accès aux composantes et aux ressources du réseau.
+Les conditions générales d'accès aux ressources et aux composantes des réseaux sont fixées par le décret prévu par l'article 37 du présent code.
