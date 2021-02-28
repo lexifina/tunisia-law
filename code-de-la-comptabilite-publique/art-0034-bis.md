@@ -1,0 +1,2 @@
+# Article 34 bis
+La délivrance des certificats d'immatriculation des véhicules et motocycles, des permis de conduire, ou de leur duplicata, ainsi que leur renouvellement ou leur remise après confiscation, est subordonnée à la justification auprès des services du ministère chargé du transport du payement des amendes à la charge du contrevenant et découlant du non respect des dispositions du code de la route.

@@ -1,0 +1,3 @@
+# Article 62 ter
+Sont transférés au profit de l'Etat les bijoux donnés en gage en garantie des crédits octroyés par le trésor, conformément aux dispositions de l'article 62 bis du présent code, et dont les propriétaires ne se sont pas présentés pour les récupérer à l'expiration d'une période de huit ans, à compter du premier janvier de l'année suivant celle de d'octroi du crédit.
+Les dispositions du présent article sont applicables aux bijoux objet des crédits octroyés pour une période n'excédant pas huit ans au premier janvier 2013, ainsi qu'aux bijoux objet des crédits octroyés à partir du premier janvier 2013 .

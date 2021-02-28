@@ -1,0 +1,2 @@
+# Article 28 quater
+Les huissiers du trésor sont tenus, dès achèvement des actes de notifications et de poursuites et autres procédures nécessaires au recouvrement des créances visées à l'article 28 du présent code, ou à défaut de pareils actes et procédures, d'être présents au poste comptable afin d'assister le comptable public, auprès duquel ils sont désignés, dans l'accomplissement des tâches qui lui sont dévolues en vertu du présent code.

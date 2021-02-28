@@ -1,0 +1,5 @@
+# Article 28 bis
+Les Huissiers du trésor visés au précédent article, sont soumis à la loi n°83-112 du 12 décembre 1983, portant statut général des personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif. Leur statut particulier est fixé par décret.
+Les huissiers du trésor exercent leurs fonctions sous l'autorité du trésorier régional mentionné aux articles 192 et 192 bis du présent code, et sous le contrôle du comptable public auprès duquel ils sont affectés.
+Les Huissiers du trésor sont tenus, avant d'entrer en fonction, de prêter serment devant le tribunal de première instance du lieu du siège du trésorier régional duquel ils relèvent.
+« Le ministre des finances, ou celui ayant reçu délégation du ministre des finances à cet effet », remet aux huissiers du trésor une carte de commission qu'ils sont tenus de présenter lorsqu'ils en sont requis à l'occasion de l'accomplissement de leurs missions, et dont ils doivent faire mention dans les actes établis par leurs soins. Ces actes revêtent le caractère d'acte authentique.

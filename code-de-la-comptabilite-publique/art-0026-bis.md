@@ -1,0 +1,5 @@
+# Article 26 bis
+Les créances demeurant impayées après notification de l'avis recommandé sont majorées des frais de poursuite au taux de 5% du montant global de la créance, à l'exclusion des pénalités de retard de recouvrement prévues par l'article 88 du code des droits et procédures fiscaux, par l'article 19 du code de la fiscalité locale et par l'article 72 bis du présent code. Ces frais sont exigibles dès la notification du titre exécutoire de la créance et de tout acte de poursuite postérieur.
+Les frais de poursuite sont recouvrés lors du paiement intégral de la créance. Toutefois, en cas de paiement partiel, les frais de poursuite sont recouvrés en priorité.
+Les frais de poursuite liquidés conformément aux dispositions du paragraphe premier du présent article ne doivent pas être inférieurs à un minimum égal à cinq dinars ni supérieurs aux maximums non progressifs fixés conformément au tableau suivant :
+Montant de la créance Montants maximums Jusqu'à 5 000D 100D de 5 000, 001 à 10 000D 200D Au-delà de 10 000D 300D Les maximums sont majorés de 50% pour les actes postérieurs à la notification du titre exécutoire.
