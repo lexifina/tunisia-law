@@ -1,0 +1,2 @@
+# Article 303 bis
+Ceux qui auront enlevé, déchiré, recouvert ou altéré par un procédé quelconque de manière à les travestir ou à les rendre illisibles, des affiches apposées par ordre de l'administration dans les emplacements à elles réservés, seront punis d'une amende de 12 à 120 dinars. Si le fait a été commis par un fonctionnaire ou un agent de l'autorité, la peine sera d'une amende de 24 à 240 dinars et d'un emprisonnement de 16 jours à un mois, ou de l'une de ces deux peines seulement.

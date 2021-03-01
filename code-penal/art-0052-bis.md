@@ -1,0 +1,2 @@
+# Article 52 bis
+(Abrogé par la loi n° 2003-75 du 10 décembre 2003, relative au soutien des efforts internationaux de lutte contre le terrorisme et à la répression du blanchiment d'argent).

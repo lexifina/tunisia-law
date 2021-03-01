@@ -1,0 +1,2 @@
+# Article 61 bis
+Est coupable d'atteinte à la sûreté extérieure de l'État et puni des peines prévues à l'article 62 du présent code, tout Tunisien ou Etranger : 1°-Qui aura entrepris, par quelque moyen que ce soit, de porter atteinte à l'intégrité du territoire tunisien, 2°-Qui aura entretenu avec les agents d'une puissance étrangère des contacts dont le but ou le résultat est de porter atteinte à la situation militaire ou diplomatique de la Tunisie. .

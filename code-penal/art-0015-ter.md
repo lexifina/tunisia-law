@@ -1,0 +1,4 @@
+# Article 15 ter
+Pour remplacer la peine d'emprisonnement par la peine de travail d'intérêt général, il est exigé que l'inculpé soit présent à l'audience, qu'il ne soit pas récidiviste et qu'il soit établi au tribunal, d'après les circonstances du fait poursuivi, l'efficacité de cette sanction pour préserver l'intégration de l'inculpé dans la vie sociale. Le tribunal doit informer l'inculpé de son droit de refuser le travail d'intérêt général et enregistre sa réponse. Dans le cas d'un refus, le tribunal prononcera les autres peines prévues.
+Le tribunal fixe le délai pendant lequel le travail doit être accompli à condition qu'il ne dépasse pas les dix huit mois à partir de la date du prononcé du jugement.
+La peine du travail d'intérêt général ne peut se cumuler avec la peine d'emprisonnement.
