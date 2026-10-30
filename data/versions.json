@@ -1,0 +1,19 @@
+{
+ "country": "TN",
+ "acts": [
+  {
+   "slug": "propriete-litteraire-artistique",
+   "short": "Loi 94-36",
+   "title": "Loi n° 94-36 du 24 février 1994, relative à la propriété littéraire et artistique (texte consolidé)",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/3840",
+   "versions": [
+    {
+     "from": "2009-06-23",
+     "units": 62,
+     "source_url": "https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Loi-n°-94-36-du-24-Fevrier-1994-Fr.pdf",
+     "sha256": "9bfef913fd60ecb49d5cd01d9e9d25873172bccbb3369ba433d9cc83121db3db"
+    }
+   ]
+  }
+ ]
+}
