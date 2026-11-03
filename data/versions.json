@@ -14,6 +14,286 @@
      "sha256": "9bfef913fd60ecb49d5cd01d9e9d25873172bccbb3369ba433d9cc83121db3db"
     }
    ]
+  },
+  {
+   "slug": "code-de-l-arbitrage",
+   "short": "Code de l'arbitrage",
+   "title": "Code de l'arbitrage",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Arbitrage.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20191206113456/http://www.legislation.tn:80/sites/default/files/codes/Arbitrage.pdf",
+     "sha256": "bfae9b78dc621ebbb31f6b6a4c5c7aaf2cf3a33797184edafd761b300d854b8a"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-assurances",
+   "short": "Code des assurances",
+   "title": "Code des assurances",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Assurance.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 221,
+     "source_url": "https://web.archive.org/web/20191206082621/http://www.legislation.tn:80/sites/default/files/codes/Assurance.pdf",
+     "sha256": "1cda855237ac9688c36d1b1f78f1cf57e9d3d6c578173ae31c9b318a2a71ee38"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-droit-international-prive",
+   "short": "Code de droit international privé",
+   "title": "Code de droit international privé",
+   "url": "http://www.legislation.tn/sites/default/files/codes/DIP.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20191206113502/http://www.legislation.tn:80/sites/default/files/codes/DIP.pdf",
+     "sha256": "19dae8b92fed07f52f9fe5fd23d52ccb35667cf369a8e334664bb31d543029a8"
+    }
+   ]
+  },
+  {
+   "slug": "code-irpp-is",
+   "short": "Code de l'impôt sur le revenu des personnes physiques et de ",
+   "title": "Code de l'impôt sur le revenu des personnes physiques et de l'impôt sur les sociétés",
+   "url": "http://www.legislation.tn/sites/default/files/codes/IRPP.pdf",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 107,
+     "source_url": "https://web.archive.org/web/20200331144836/http://www.legislation.tn:80/sites/default/files/codes/IRPP.pdf",
+     "sha256": "c30ac948052d52dea00d4d1ed9650805c0302db6d3c5ccffac71170cfbcff8d9"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-la-nationalite-tunisienne",
+   "short": "Code de la nationalité tunisienne",
+   "title": "Code de la nationalité tunisienne",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Nationalite.pdf",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20201112023000/http://www.legislation.tn/sites/default/files/codes/Nationalite.pdf",
+     "sha256": "b0a07bf5671d2ef42ec4cecb0a6e1bb2ad7fe41f2a340379199a62304f7aa8df"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Penal.pdf",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 356,
+     "source_url": "https://web.archive.org/web/20210301064223/http://www.legislation.tn/sites/default/files/codes/Penal.pdf",
+     "sha256": "c904e74d73723ab04efe8a23b2e7465cef0219ce82dee04a798d8509a7cb414c"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-la-route",
+   "short": "Code de la route",
+   "title": "Code de la route",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Route.pdf",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20200331145052/http://www.legislation.tn:80/sites/default/files/codes/Route.pdf",
+     "sha256": "62a38cd9d57858dcfadd54852e1a5dc7289e67a17eae9943638002663bc860fc"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-statut-personnel",
+   "short": "Code du statut personnel",
+   "title": "Code du statut personnel",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Statutpersonnel.pdf",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 218,
+     "source_url": "https://web.archive.org/web/20200228083658/http://www.legislation.tn:80/sites/default/files/codes/Statutpersonnel.pdf",
+     "sha256": "992210a5344bab9e5b7588d3d3922bf3bac87c1bca44ee5111052e4ae84a8152"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-changes-et-du-commerce-exterieur",
+   "short": "Code des changes et du commerce extérieur",
+   "title": "Code des changes et du commerce extérieur",
+   "url": "http://www.legislation.tn/sites/default/files/codes/change.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20191206082628/http://www.legislation.tn:80/sites/default/files/codes/change.pdf",
+     "sha256": "c36c9e9325e5fe5620ada3428430734bfd05404fd66aa44c466090df1500c8a2"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-la-comptabilite-publique",
+   "short": "Code de la comptabilité publique",
+   "title": "Code de la comptabilité publique",
+   "url": "http://www.legislation.tn/sites/default/files/codes/comptabilitepub.pdf",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 311,
+     "source_url": "https://web.archive.org/web/20210228220900/http://www.legislation.tn/sites/default/files/codes/comptabilitepub.pdf",
+     "sha256": "04bc3a834950c6eb6b19e8138de8b9a618b78f90b604abccc18e3c656cedae31"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-deontologie-medicale",
+   "short": "Code de déontologie médicale",
+   "title": "Code de déontologie médicale",
+   "url": "http://www.legislation.tn/sites/default/files/codes/deontologiemedicale.pdf",
+   "versions": [
+    {
+     "from": "2020-02-15",
+     "units": 123,
+     "source_url": "https://web.archive.org/web/20200215051057/http://www.legislation.tn:80/sites/default/files/codes/deontologiemedicale.pdf",
+     "sha256": "c7dcf60e3eb927eb060af0f21b15fcb98a6758b7e5500f0d3935924780e018ca"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-droits-d-enregistrement-et-de-timbre",
+   "short": "Code des droits d'enregistrement et de timbre",
+   "title": "Code des droits d'enregistrement et de timbre",
+   "url": "http://www.legislation.tn/sites/default/files/codes/drtenregtimbre.pdf",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20200110144655/http://www.legislation.tn:80/sites/default/files/codes/drtenregtimbre.pdf",
+     "sha256": "01dc4ce62c91f15eafd17a777e5658acf506f3ca9b7148092848a82e8081886a"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-droits-reels",
+   "short": "Code des droits réels",
+   "title": "Code des droits réels",
+   "url": "http://www.legislation.tn/sites/default/files/codes/dtreel.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 415,
+     "source_url": "https://web.archive.org/web/20191206113512/http://www.legislation.tn:80/sites/default/files/codes/dtreel.pdf",
+     "sha256": "7b7117daed1fad2eddc06f11c6b68057ebe286e65cd810b216e623675f2e11da"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-la-fiscalite-locale",
+   "short": "Code de la fiscalité locale",
+   "title": "Code de la fiscalité locale",
+   "url": "http://www.legislation.tn/sites/default/files/codes/fiscalitelocale.pdf",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20200327162059/http://www.legislation.tn:80/sites/default/files/codes/fiscalitelocale.pdf",
+     "sha256": "6d8a35b932bdd1e7e3b62cb40313839ffddd6e056ba550dba073b16d535a4061"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-organismes-de-placement-collectif",
+   "short": "Code des organismes de placement collectif",
+   "title": "Code des organismes de placement collectif",
+   "url": "http://www.legislation.tn/sites/default/files/codes/orgplacoll.pdf",
+   "versions": [
+    {
+     "from": "2019-07-15",
+     "units": 73,
+     "source_url": "https://web.archive.org/web/20190715094932/http://www.legislation.tn:80/sites/default/files/codes/orgplacoll.pdf",
+     "sha256": "8a24a1f0ac6dd7a0074d29ad36585841e56c698de2775814cd80f561253a9136"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-ports-maritimes",
+   "short": "Code des ports maritimes",
+   "title": "Code des ports maritimes",
+   "url": "http://www.legislation.tn/sites/default/files/codes/portsmaritimes.pdf",
+   "versions": [
+    {
+     "from": "2020-09-27",
+     "units": 145,
+     "source_url": "https://web.archive.org/web/20200927200249/http://www.legislation.tn/sites/default/files/codes/portsmaritimes.pdf",
+     "sha256": "04cb384499f00bc8dc4fbf383881afe9fcfea54111ea11cef643296a99d8377a"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-la-poste",
+   "short": "Code de la poste",
+   "title": "Code de la poste",
+   "url": "http://www.legislation.tn/sites/default/files/codes/poste.pdf",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20200327144918/http://www.legislation.tn:80/sites/default/files/codes/poste.pdf",
+     "sha256": "0f3ac03a3b8fb350144accc32826d1b062dd52b0907a35f40e6ba0deb8b4245a"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-droits-et-procedures-fiscaux",
+   "short": "Code des droits et procédures fiscaux",
+   "title": "Code des droits et procédures fiscaux",
+   "url": "http://www.legislation.tn/sites/default/files/codes/procedurefisc.pdf",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 155,
+     "source_url": "https://web.archive.org/web/20200110160452/http://www.legislation.tn:80/sites/default/files/codes/procedurefisc.pdf",
+     "sha256": "127ba66fbdbfa326fa5c312e93c9565c807d5a03ef83887ff0321a0188d59753"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-telecommunications",
+   "short": "Code des télécommunications",
+   "title": "Code des télécommunications",
+   "url": "http://www.legislation.tn/sites/default/files/codes/telecommunication.pdf",
+   "versions": [
+    {
+     "from": "2021-01-09",
+     "units": 104,
+     "source_url": "https://web.archive.org/web/20210109112601/http://www.legislation.tn/sites/default/files/codes/telecommunication.pdf",
+     "sha256": "1da974dafcfc598f96614a3e448efa62826685146081203d3317b48b16323683"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-l-amenagement-du-territoire-et-de-l-urbanisme",
+   "short": "Code de l'aménagement du territoire et de l'urbanisme",
+   "title": "Code de l'aménagement du territoire et de l'urbanisme",
+   "url": "http://www.legislation.tn/sites/default/files/codes/urbanisme.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20191206113522/http://www.legislation.tn:80/sites/default/files/codes/urbanisme.pdf",
+     "sha256": "f7478c933a4f5b633328b0a1268173fd6793d6eb5ada00abb70420db91df0291"
+    }
+   ]
   }
  ]
 }
