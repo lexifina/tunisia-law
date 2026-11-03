@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | legislation-securite.tn: Loi n° 94-36 du 24 février 1994 (consolidated text, PDF) | <https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Loi-n°-94-36-du-24-Fevrier-1994-Fr.pdf> | 2026-10-30 | Official text; excluded from copyright by article premier of Law 94-36 as amended |
 | Imprimerie Officielle de la République Tunisienne (IORT), codes en vigueur publiés sur legislation.tn, le portail national de l'information juridique | <http://www.legislation.tn/fr/recherche/codes-en-vigueur> | 2026-11-03 | Textes officiels d'ordre législatif: hors du droit d'auteur (loi n° 94-36, art. 1er, modifié par la loi n° 2009-33) |
+| Imprimerie Officielle de la République Tunisienne (IORT), codes en vigueur publiés sur legislation.tn, le portail national de l'information juridique | <http://www.legislation.tn/fr/recherche/codes-en-vigueur> | 2026-11-03 | Textes officiels d'ordre législatif: hors du droit d'auteur (loi n° 94-36, art. 1er, modifié par la loi n° 2009-33) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -36,12 +37,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `code-des-droits-et-procedures-fiscaux` | Code des droits et procédures fiscaux | 1 | 2020-01-10 to 2020-01-10 |
 | `code-des-telecommunications` | Code des télécommunications | 1 | 2021-01-09 to 2021-01-09 |
 | `code-de-l-amenagement-du-territoire-et-de-l-urbanisme` | Code de l'aménagement du territoire et de l'urbanisme | 1 | 2019-12-06 to 2019-12-06 |
+| `code-des-obligations-et-des-contrats` | Code des obligations et des contrats | 1 | 2020-09-30 to 2020-09-30 |
+| `code-de-commerce` | Code de commerce | 1 | 2020-01-10 to 2020-01-10 |
+| `code-de-procedure-civile-et-commerciale` | Code de procédure civile et commerciale | 1 | 2020-01-10 to 2020-01-10 |
+| `code-de-procedure-penale` | Code de procédure pénale | 1 | 2020-02-28 to 2020-02-28 |
+| `code-de-la-taxe-sur-la-valeur-ajoutee` | Code de la taxe sur la valeur ajoutée | 1 | 2019-12-06 to 2019-12-06 |
+| `code-des-douanes` | Code des douanes | 1 | 2020-02-28 to 2020-02-28 |
+| `code-forestier` | Code forestier | 1 | 2020-06-05 to 2020-06-05 |
+| `code-des-societes-commerciales` | Code des sociétés commerciales | 1 | 2020-03-31 to 2020-03-31 |
+| `code-du-travail` | Code du travail | 1 | 2020-09-29 to 2020-09-29 |
 
-The build made 21 commits:
+The build made 30 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 21 | first version of an act |
+| 30 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -49,7 +59,7 @@ Other counts:
 - 0 commits on the branch `futur`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2 laws in the record.
-- 21 tags.
+- 30 tags.
 
 ## Dates
 
@@ -61,8 +71,8 @@ When a law gives no date of its own, the default rule applies: Law 94-36 as amen
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9e27760a9947add2b20981cc6c050e2ad7efc2e5c305b47c7ac8f59d38e622e8` (2267775 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `1d85419e88f90ddf2a7dad57498b88835c1e5cb87bb27e31ef7fa058b49211d3` (4958846 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -79,6 +89,8 @@ No second build of this corpus has been compared yet.
 - Official legislative texts are not protected by copyright in Tunisia (Law 94-36, article premier, as amended), so a third-party copy of this official text may be reused; the host is credited as the source of the bytes.
 - Codes: each code in force that legislation.tn published as a consolidated French PDF (the IORT edition) is one current-text version. The source states the edition and the last amending law it takes into account, but not the day that law came into force, so each version is dated by the day the Internet Archive captured the file from the portal and is credited to the publisher; the last amending law is named in the version's note.
 - Only the code's own articles are kept, one file per article; the promulgating law or decree printed before a code, headings of books, titles, chapters and sections, page headers, page numbers and footnotes are left out, and so are the editors' bracketed notes naming the law that added, amended or repealed an article. An article the edition prints as repealed keeps only that note.
+- Codes: each code in force that legislation.tn published as a consolidated French PDF (the IORT edition) is one current-text version. The source states the edition and the last amending law it takes into account, but not the day that law came into force, so each version is dated by the day the Internet Archive captured the file from the portal and is credited to the publisher; the last amending law is named in the version's note.
+- Only the code's own articles are kept, one file per article; the promulgating law or decree printed before a code, headings of books, titles, chapters and sections, page headers, page numbers and footnotes are left out, and so are the editors' bracketed notes naming the law that added, amended or repealed an article. An article the edition prints as repealed keeps only that note.
 
 ## What AI did and did not do
 
@@ -90,4 +102,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Sonnet 5.5) wrote the extraction code. No model wrote, edited or summarised legal text.
+- Claude Code wrote the parser; it did not write or alter any legal text.
 - Claude Code wrote the parser; it did not write or alter any legal text.

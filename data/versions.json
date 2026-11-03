@@ -294,6 +294,132 @@
      "sha256": "f7478c933a4f5b633328b0a1268173fd6793d6eb5ada00abb70420db91df0291"
     }
    ]
+  },
+  {
+   "slug": "code-des-obligations-et-des-contrats",
+   "short": "Code des obligations et des contrats",
+   "title": "Code des obligations et des contrats",
+   "url": "http://www.legislation.tn/sites/default/files/codes/COC.pdf",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1405,
+     "source_url": "https://web.archive.org/web/20200930183107/http://www.legislation.tn/sites/default/files/codes/COC.pdf",
+     "sha256": "5503171e249d240c37fece43ed15036055f8fb25521201dbeb33864bcc8412b5"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-commerce",
+   "short": "Code de commerce",
+   "title": "Code de commerce",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Commerce.pdf",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 548,
+     "source_url": "https://web.archive.org/web/20200110170852/http://www.legislation.tn:80/sites/default/files/codes/Commerce.pdf",
+     "sha256": "fd205f84e7413e741f182c85dbff2fe4900e68658f92908a52c21245ab6f98a2"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-procedure-civile-et-commerciale",
+   "short": "Code de procédure civile et commerciale",
+   "title": "Code de procédure civile et commerciale",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Procedurecivilecom.pdf",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 465,
+     "source_url": "https://web.archive.org/web/20200110133835/http://www.legislation.tn:80/sites/default/files/codes/Procedurecivilecom.pdf",
+     "sha256": "3c9492974c223dfefff89593afc25f4ac0c5b6554b554c98bf61c64077671f0e"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-procedure-penale",
+   "short": "Code de procédure pénale",
+   "title": "Code de procédure pénale",
+   "url": "http://www.legislation.tn/sites/default/files/codes/Procedurepenale.pdf",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 368,
+     "source_url": "https://web.archive.org/web/20200228081008/http://www.legislation.tn:80/sites/default/files/codes/Procedurepenale.pdf",
+     "sha256": "caebd2ea9de534eb87706ed91f28b4125f10482c080c1f3a8be13dc820975346"
+    }
+   ]
+  },
+  {
+   "slug": "code-de-la-taxe-sur-la-valeur-ajoutee",
+   "short": "Code de la taxe sur la valeur ajoutée",
+   "title": "Code de la taxe sur la valeur ajoutée",
+   "url": "http://www.legislation.tn/sites/default/files/codes/TVA.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20191206134302/http://www.legislation.tn:80/sites/default/files/codes/TVA.pdf",
+     "sha256": "517ae10acf6174da4df8e369d1cf7fe4fc057f425669d652d292c7a8f2097060"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-douanes",
+   "short": "Code des douanes",
+   "title": "Code des douanes",
+   "url": "http://www.legislation.tn/sites/default/files/codes/douane.pdf",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 425,
+     "source_url": "https://web.archive.org/web/20200228082706/http://www.legislation.tn:80/sites/default/files/codes/douane.pdf",
+     "sha256": "fb11ed8df28a6434a7f540e4704fcafc752b153873b0f402d769c6812cf7aae2"
+    }
+   ]
+  },
+  {
+   "slug": "code-forestier",
+   "short": "Code forestier",
+   "title": "Code forestier",
+   "url": "http://www.legislation.tn/sites/default/files/codes/forestier.pdf",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 231,
+     "source_url": "https://web.archive.org/web/20200605093400/http://www.legislation.tn:80/sites/default/files/codes/forestier.pdf",
+     "sha256": "a158e603909ac97c14b5d13b620fb8da96a870070c3107701ca106813483d207"
+    }
+   ]
+  },
+  {
+   "slug": "code-des-societes-commerciales",
+   "short": "Code des sociétés commerciales",
+   "title": "Code des sociétés commerciales",
+   "url": "http://www.legislation.tn/sites/default/files/codes/societe.pdf",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 488,
+     "source_url": "https://web.archive.org/web/20200331145109/http://www.legislation.tn:80/sites/default/files/codes/societe.pdf",
+     "sha256": "8d3076cd4bce128c3d6b0763693fede4418b325bae0067251160b6d169add01f"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-travail",
+   "short": "Code du travail",
+   "title": "Code du travail",
+   "url": "http://www.legislation.tn/sites/default/files/codes/travail.pdf",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 495,
+     "source_url": "https://web.archive.org/web/20200929223823/http://www.legislation.tn/sites/default/files/codes/travail.pdf",
+     "sha256": "9b26e384b52c7ccc8535b66265280252b7faf1b7db13c2241d44d971405f2b53"
+    }
+   ]
   }
  ]
 }
