@@ -420,6 +420,20 @@
      "sha256": "9b26e384b52c7ccc8535b66265280252b7faf1b7db13c2241d44d971405f2b53"
     }
    ]
+  },
+  {
+   "slug": "code-de-l-aeronautique-civile",
+   "short": "Code de l'aéronautique civile",
+   "title": "Code de l'aéronautique civile",
+   "url": "http://www.legislation.tn/sites/default/files/codes/aeronacivile.pdf",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20200110144648id_/http://www.legislation.tn:80/sites/default/files/codes/aeronacivile.pdf",
+     "sha256": "53dbaaae02be81154e9c8d42f31332e54c957843d097f33364a9930fc9fd1d7b"
+    }
+   ]
   }
  ]
 }

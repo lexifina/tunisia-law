@@ -1,6 +1,6 @@
 # How this repository was made (Tunisia)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -9,6 +9,9 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | legislation-securite.tn: Loi n° 94-36 du 24 février 1994 (consolidated text, PDF) | <https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Loi-n°-94-36-du-24-Fevrier-1994-Fr.pdf> | 2026-10-30 | Official text; excluded from copyright by article premier of Law 94-36 as amended |
 | Imprimerie Officielle de la République Tunisienne (IORT), codes en vigueur publiés sur legislation.tn, le portail national de l'information juridique | <http://www.legislation.tn/fr/recherche/codes-en-vigueur> | 2026-11-03 | Textes officiels d'ordre législatif: hors du droit d'auteur (loi n° 94-36, art. 1er, modifié par la loi n° 2009-33) |
 | Imprimerie Officielle de la République Tunisienne (IORT), codes en vigueur publiés sur legislation.tn, le portail national de l'information juridique | <http://www.legislation.tn/fr/recherche/codes-en-vigueur> | 2026-11-03 | Textes officiels d'ordre législatif: hors du droit d'auteur (loi n° 94-36, art. 1er, modifié par la loi n° 2009-33) |
+| Imprimerie Officielle de la République Tunisienne, Code de l'aéronautique civile, édition revue et corrigée le 19 janvier 2018 | <http://www.legislation.tn/sites/default/files/codes/aeronacivile.pdf> | 2026-11-04 | Texte officiel législatif: hors droit d'auteur selon la loi n° 94-36, article premier, modifié par la loi n° 2009-33 |
+| Journal Officiel de la République Tunisienne, n° 38 du 12 mai 2009, traduction française pour information, p. 1270, loi n° 2009-25 | <https://web.archive.org/web/20160309022829id_/http://www.legislation.tn:80/sites/default/files/journal-officiel/2009/2009F/Jo0382009.pdf> | 2026-11-04 | Texte officiel législatif: hors droit d'auteur selon la loi n° 94-36, article premier, modifié par la loi n° 2009-33 |
+| Imprimerie Officielle de la République Tunisienne, JORT n° 50 du 6 juillet 1993, p. 931, loi n° 93-64, article 2 | <http://www.iort.gov.tn/WD120AWP/WD120Awp.exe/CONNECT/SITEIORT> | 2026-11-05 | Texte officiel législatif: hors droit d'auteur selon la loi n° 94-36, article premier, modifié par la loi n° 2009-33 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -46,20 +49,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `code-forestier` | Code forestier | 1 | 2020-06-05 to 2020-06-05 |
 | `code-des-societes-commerciales` | Code des sociétés commerciales | 1 | 2020-03-31 to 2020-03-31 |
 | `code-du-travail` | Code du travail | 1 | 2020-09-29 to 2020-09-29 |
+| `code-de-l-aeronautique-civile` | Code de l'aéronautique civile | 1 | 2009-05-18 to 2009-05-18 |
 
-The build made 30 commits:
+The build made 31 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 30 | first version of an act |
+| 31 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futur`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `futur`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2 laws in the record.
-- 30 tags.
+- 31 tags.
 
 ## Dates
 
@@ -71,9 +75,9 @@ When a law gives no date of its own, the default rule applies: Law 94-36 as amen
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1d85419e88f90ddf2a7dad57498b88835c1e5cb87bb27e31ef7fa058b49211d3` (4958846 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `226c06dc7d75d029abf23e271b3727284896de3ba4ee57c08a7f516d7035dd3e` (5067039 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
@@ -91,6 +95,10 @@ No second build of this corpus has been compared yet.
 - Only the code's own articles are kept, one file per article; the promulgating law or decree printed before a code, headings of books, titles, chapters and sections, page headers, page numbers and footnotes are left out, and so are the editors' bracketed notes naming the law that added, amended or repealed an article. An article the edition prints as repealed keeps only that note.
 - Codes: each code in force that legislation.tn published as a consolidated French PDF (the IORT edition) is one current-text version. The source states the edition and the last amending law it takes into account, but not the day that law came into force, so each version is dated by the day the Internet Archive captured the file from the portal and is credited to the publisher; the last amending law is named in the version's note.
 - Only the code's own articles are kept, one file per article; the promulgating law or decree printed before a code, headings of books, titles, chapters and sections, page headers, page numbers and footnotes are left out, and so are the editors' bracketed notes naming the law that added, amended or repealed an article. An article the edition prints as repealed keeps only that note.
+- The IORT edition's 19 January 2018 revision is editorial, not legal commencement. Its Article 142 identifies Law 2009-25 of 11 May 2009 as the latest code amendment. Official JORT no. 38 of 12 May 2009, p. 1270, publishes that law and its last page records deposit at the governorate of Tunis on 13 May 2009. Law 93-64, Article 2 (JORT no. 50 of 6 July 1993, p. 931), makes texts executable five days after deposit, excluding the deposit day, unless an express provision says otherwise. Law 2009-25 has no such exception. Counting 14, 15, 16, 17 and 18 May gives In-force 18 May 2009.
+- Only the code through Article 155 is included. The seven separate decrees printed after ANNEXES are separate legal instruments and are not part of the code.
+- Six article headings use uncommon French suffix spellings. Their source headings are preserved verbatim in the output, with distinct article keys; editor amendment notes and page furniture are excluded as for the earlier code parts.
+- The source PDF has zero embedded images.
 
 ## What AI did and did not do
 
@@ -104,3 +112,4 @@ Model use at data-build time:
 - Claude Code (Claude Sonnet 5.5) wrote the extraction code. No model wrote, edited or summarised legal text.
 - Claude Code wrote the parser; it did not write or alter any legal text.
 - Claude Code wrote the parser; it did not write or alter any legal text.
+- Parser code was written with AI assistance; all legal words were extracted from the official PDF text layer.

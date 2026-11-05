@@ -1,0 +1,50 @@
+{
+ "parts": {
+  "30-acts-001.json": {
+   "acts": [
+    "code-de-deontologie-medicale",
+    "code-de-droit-international-prive",
+    "code-de-l-amenagement-du-territoire-et-de-l-urbanisme",
+    "code-de-l-arbitrage",
+    "code-de-la-comptabilite-publique",
+    "code-de-la-fiscalite-locale",
+    "code-de-la-nationalite-tunisienne",
+    "code-de-la-poste",
+    "code-de-la-route",
+    "code-des-assurances",
+    "code-des-changes-et-du-commerce-exterieur",
+    "code-des-droits-d-enregistrement-et-de-timbre",
+    "code-des-droits-et-procedures-fiscaux",
+    "code-des-droits-reels",
+    "code-des-organismes-de-placement-collectif",
+    "code-des-ports-maritimes",
+    "code-des-telecommunications",
+    "code-du-statut-personnel",
+    "code-irpp-is",
+    "code-penal"
+   ],
+   "sha256": "08a626f9d48d275616bd455cb232314f876812b7643dbba3ade557355a18cd6a"
+  },
+  "30-acts-002.json": {
+   "acts": [
+    "code-de-commerce",
+    "code-de-la-taxe-sur-la-valeur-ajoutee",
+    "code-de-procedure-civile-et-commerciale",
+    "code-de-procedure-penale",
+    "code-des-douanes",
+    "code-des-obligations-et-des-contrats",
+    "code-des-societes-commerciales",
+    "code-du-travail",
+    "code-forestier"
+   ],
+   "sha256": "4d5cb3e4f923e7aeab183820e9f961448a28102acdedea158219528ae8ccfa65"
+  },
+  "31-aeronautique.json": {
+   "acts": [
+    "code-de-l-aeronautique-civile"
+   ],
+   "sha256": "5fbd79404449d1922759d85e59f2604475b1bfa780073424c91721d4c30b9903"
+  }
+ },
+ "schema": 1
+}
