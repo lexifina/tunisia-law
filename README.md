@@ -1,5 +1,7 @@
 # Tunisia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tunisia's national law, which global-law reads at `tunisia/national/acts/`.
+
 The law of Tunisia as a git history: one file per article, one commit per law on the day it took effect, and the law (or the publisher) behind each change as the commit's author. `git blame` names the source of every paragraph; `git log` lists every change; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
