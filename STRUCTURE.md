@@ -6,11 +6,11 @@ French translation beside it.
 
 | Folder | What it holds |
 | --- | --- |
-| `constitution/` | The Constitution (reserved: no text yet; see README) |
+| `constitution/` | The Constitution: the 1959 text as last amended in 2008, then the 2022 text, as successive versions of the same files (`art-001.md`, ..., `preambule.md` with the visas and preamble, `fin.md` with the promulgation); the 2014 Constitution is not on the IORT's page and is not here |
 | `codes/<code>/` | A code in the IORT's consolidated French edition, e.g. `codes/code-du-travail/` |
-| `lois/<année>/<NNN>-<objet>/` | A law (قانون, including organic and finance laws) as published in the JORT, by year and number, e.g. `lois/2023/001-approbation-du-contrat-de-credit-conclu-le-4-avril-2023/` |
+| `lois/<année>/<NNN>-<objet>/` | A law (قانون, including organic and finance laws) as published in the JORT, by year and number, e.g. `lois/2008/019-enseignement-superieur/` |
 | `decrets-lois/<année>/<NNN>-<objet>/` | A decree-law (مرسوم), e.g. `decrets-lois/2011/115-liberte-de-la-presse-de-l-imprimerie-et-de-l-edition/` |
-| `decrets/<année>/<tranche>/<NNNN>-<objet>/` | A decree (أمر, including government and presidential decrees), by year, thousand (`0000-0999`, `1000-1999`, ...) and number, e.g. `decrets/2009/1000-1999/1062-.../` |
+| `decrets/<année>/<tranche>/<NNNN>-<objet>/` | A decree (أمر, including government and presidential decrees), by year, thousand (`0000-0999`, `1000-1999`, ...) and number, e.g. `decrets/2009/1000-1999/1062-<objet>/` |
 
 `<objet>` is the subject of the French title (or of the Arabic title when the IORT gives no French), lower case,
 without accents, cut at 60 characters. No folder holds more than 1,000 entries.

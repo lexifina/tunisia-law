@@ -1,5 +1,34 @@
 # How this repository was made (Tunisia)
 
+## The JORT texts and the Constitution (from 26 November 2026)
+
+The laws (`lois/`), decree-laws (`decrets-lois/`), decrees (`decrets/`) and the Constitution (`constitution/`) are
+added by a runner kept in Lexifina's build scripts (`scripts/tunisia-law/runner/`: `tn_iort.py`, `tn_fetch.py`,
+`tn_const.py`, `tn_build.py`). Layout and dating rules are in [STRUCTURE.md](STRUCTURE.md).
+
+| Source | Address | What is taken |
+| --- | --- | --- |
+| Imprimerie Officielle de la République Tunisienne (IORT), search of the texts of the Journal Officiel (البحث عن النص) | <http://www.iort.gov.tn/WD120AWP/WD120Awp.exe/CONNECT/SITEIORT> | For each year and kind (قانون loi, مرسوم décret-loi, أمر décret), the list of texts, then each text's page "لغتان" (two languages): the Arabic text, the IORT's French translation, the JORT issue number, date and pages |
+| IORT, Constitution page (دستور الجمهورية التونسية, and 1959) | same address, menu "دستور الجمهورية التونسية" | Each chapter of the tree, each article as a row |
+
+How it runs: one HTTP request at a time, at least one second apart, raised step by step only while the host answers
+without timeouts or errors, and halved with a pause on any timeout or 5xx. The host has no robots.txt and no terms page
+beyond its footer.
+
+- Text: the HTML text the IORT serves. No OCR: texts the IORT has only as page scans of the JORT issue (most texts
+  before 1997) are left out and counted in the fetch state. For each year of decrees before 1997 only the first
+  texts are opened; when they have no text the rest of the year is not opened.
+- Decrees that name a person (appointments, promotions, retirements, decorations) are individual measures, not
+  rules, and are not fetched.
+- Article files: lines starting "الفصل N ـ" / "Article N -" with the next number in order; the preamble and the
+  closing formula are separate files. Nothing in the text is changed; the editors' amendment notes in the 1959
+  Constitution are moved to `constitution/README.md`.
+- Dates: see STRUCTURE.md. The deposit day of each JORT issue, which Law 93-64 counts from, is not on the IORT's
+  page; the issue day is used, which gives the earliest day the text could take effect.
+- Not in the record: the Constitution of 27 January 2014 (not on the IORT's Constitution page); orders (قرارات) and
+  opinions; case law (the Court of Cassation's decision search answers 403).
+
+
 This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources

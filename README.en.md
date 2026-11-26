@@ -11,11 +11,11 @@ The law of Tunisia as a git history: one file per article, one commit per versio
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tunisia's national law, which global-law reads at `tunisia/national/acts/`.
 
-**What is in it now:** 31 acts, one version each, with 7,737 articles: 30 codes in force as the Imprimerie Officielle de la République Tunisienne (IORT) consolidated them in its French editions (the Code du travail, the Code pénal, the Code des obligations et des contrats, the Code du statut personnel and 26 others), and Loi n° 94-36 of 24 February 1994 on literary and artistic property, as amended by Loi n° 2009-33. Each act's folder has a `README.md` listing its articles; [`data/versions.json`](data/versions.json) gives each version's day and source.
+**What is in it now:** the Constitution (that of 2022, and that of 1959 as last amended in 2008); the laws, decree-laws and decrees of the Journal Officiel de la République Tunisienne (JORT) as published, in Arabic with the French translation the Imprimerie Officielle (IORT) publishes beside it, one folder per text (`lois/<année>/`, `decrets-lois/<année>/`, `decrets/<année>/`), added year by year as they are fetched; and 30 codes in force in the IORT's consolidated French editions plus Loi n° 94-36 on literary and artistic property. [STRUCTURE.md](STRUCTURE.md) gives the layout and how each version is dated.
 
 Each act is a folder with one file per article: the codes are in `codes/<name>/` (`codes/code-du-travail/art-0112.md` is Article 112 of the Code du travail), Loi n° 94-36 in `lois/1994/036-propriete-litteraire-et-artistique/`. Until 11 November 2026 each code's folder was named by its id (`code-du-travail/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and the version tags (`code-du-travail/2020-09-29`) keep the ids.
 
-The text is in French, from the IORT's French editions. The authoritative text is the Arabic one in the Journal Officiel de la République Tunisienne (JORT); it and an English translation are not part of this record.
+The JORT texts and the Constitution are in Arabic, the authentic text, with the IORT's French translation in each folder's `fr/`. The codes are in French only, from the IORT's French editions. No English translation is part of this record.
 
 ## Questions as git commands
 
@@ -55,7 +55,7 @@ Each commit is dated at noon, Africa/Tunis, on the day the version took effect, 
 - the Code de l'aéronautique civile: 18 May 2009. Its last amendment, Loi n° 2009-25, appeared in JORT n° 38 of 12 May 2009, deposited in Tunis on 13 May, and Loi n° 93-64, article 2, makes a text executable five days after deposit, not counting the deposit day; the edition's date, 19 January 2018, is editorial;
 - Loi n° 94-36: 23 June 2009, the date of Loi n° 2009-33, whose amendments the consolidated copy includes; the copy gives neither law's JORT date.
 
-Every version here is the oldest version available and is credited to its publisher: the codes to `Imprimerie Officielle de la République Tunisienne (legislation.tn)`, Loi n° 94-36 to `legislation-securite.tn`. The committer is Lexifina.
+Each law, decree-law and decree of the JORT, and the Constitution, is credited to itself and dated by the rules in [STRUCTURE.md](STRUCTURE.md). Each code version is the oldest available and is credited to its publisher: the codes to `Imprimerie Officielle de la République Tunisienne (legislation.tn)`, Loi n° 94-36 to `legislation-securite.tn`. The committer is Lexifina.
 
 ## How it is checked
 
@@ -66,7 +66,7 @@ Every version here is the oldest version available and is credited to its publis
 
 ## What it does not show
 
-- **Most of Tunisian law.** Only these 31 acts are here: no Constitution, no other laws or decrees, and no case law. The only official Arabic copy of the 2022 Constitution found is a scan that OCR could not read, so it was left out.
+- **All of Tunisian law.** Texts the IORT has only as scans of the JORT issue (most texts before 1997) are not here; nor are orders (arrêtés), decrees naming a person (appointments, promotions), the Constitution of 2014, or case law. The codes are one consolidated version each, not rebuilt from their amending laws.
 - **History.** Each act is one consolidated text: earlier wordings and the amending laws as separate versions are not here, nor Loi n° 94-36 as enacted in 1994.
 - **Later amendments.** Changes made after each code's edition was captured (2019 to 2021) are not applied.
 - **Headings and notes.** The promulgating law or decree printed before a code, the headings of books, titles, chapters and sections, the footnotes, and the editors' notes naming the law that added, amended or repealed an article are left out; an article printed only as repealed keeps that note as its text.
@@ -79,6 +79,7 @@ Every version here is the oldest version available and is credited to its publis
 | [legislation.tn](http://www.legislation.tn/fr/recherche/codes-en-vigueur) (IORT) | National legal information portal: consolidated French editions of the codes in force | one consolidated text per code | 30 codes, read from the Internet Archive's captures of the portal's PDFs |
 | [legislation-securite.tn](https://legislation-securite.tn/) | Consolidated copy of the official text | one text | Loi n° 94-36 as amended by Loi n° 2009-33, retrieved 30 October 2026 |
 | [IORT](http://www.iort.gov.tn/) | Journal Officiel (JORT) | as published | JORT n° 38 of 12 May 2009 and n° 50 of 6 July 1993, for the Code de l'aéronautique civile's day |
+| [IORT, text search](http://www.iort.gov.tn/WD120AWP/WD120Awp.exe/CONNECT/SITEIORT) | Journal Officiel (JORT): full text of each law, decree-law and decree, Arabic and French; the Constitution page | as published | HTML text only, no OCR; see [REPRODUCE.md](REPRODUCE.md) |
 
 ## Licence
 

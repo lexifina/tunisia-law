@@ -11,11 +11,11 @@ Le droit de la Tunisie sous la forme d’un historique git : un fichier par art
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national de la Tunisie, que global-law lit sous `tunisia/national/acts/`.
 
-**Contenu actuel :** 31 textes, en une version chacun, totalisant 7 737 articles : 30 codes en vigueur tels que l’Imprimerie Officielle de la République Tunisienne (IORT) les a consolidés dans ses éditions françaises (le Code du travail, le Code pénal, le Code des obligations et des contrats, le Code du statut personnel et 26 autres), et la Loi n° 94-36 du 24 février 1994 relative à la propriété littéraire et artistique, telle que modifiée par la Loi n° 2009-33. Le dossier de chaque texte contient un `README.md` listant ses articles ; [`data/versions.json`](data/versions.json) donne la date et la source de chaque version.
+**Contenu actuel :** la Constitution (celle de 2022, et celle de 1959 telle que modifiée en dernier lieu en 2008) ; les lois, décrets-lois et décrets du Journal Officiel de la République Tunisienne (JORT) tels que publiés, en arabe avec la traduction française que l’Imprimerie Officielle (IORT) publie à côté, un dossier par texte (`lois/<année>/`, `decrets-lois/<année>/`, `decrets/<année>/`), ajoutés année par année au fil de leur collecte ; et 30 codes en vigueur dans les éditions françaises consolidées de l’IORT, ainsi que la Loi n° 94-36 relative à la propriété littéraire et artistique. [STRUCTURE.md](STRUCTURE.md) décrit l’organisation et la datation de chaque version.
 
 Chaque texte est un dossier avec un fichier par article : les codes se trouvent dans `codes/<name>/` (`codes/code-du-travail/art-0112.md` est l’article 112 du Code du travail), la Loi n° 94-36 dans `lois/1994/036-propriete-litteraire-et-artistique/`. Jusqu’au 11 novembre 2026, le dossier de chaque code portait son identifiant (`code-du-travail/`) ; [`data/paths.json`](data/paths.json) fait correspondre chaque identifiant à son dossier, et les étiquettes de version (`code-du-travail/2020-09-29`) conservent les identifiants.
 
-Le texte est en français, tiré des éditions françaises de l’IORT. Le texte qui fait foi est le texte arabe publié au Journal Officiel de la République Tunisienne (JORT) ; ni celui-ci ni une traduction anglaise ne font partie de ce corpus.
+Les textes du JORT et la Constitution sont en arabe, le texte qui fait foi, avec la traduction française de l’IORT dans le dossier `fr/` de chaque texte. Les codes sont en français seulement, tirés des éditions françaises de l’IORT. Aucune traduction anglaise ne fait partie de ce corpus.
 
 ## Questions sous forme de commandes git
 
@@ -55,7 +55,7 @@ Chaque commit est daté à midi, heure Africa/Tunis, du jour où la version est 
 - le Code de l'aéronautique civile : le 18 mai 2009. Sa dernière modification, la Loi n° 2009-25, a paru au JORT n° 38 du 12 mai 2009, déposé à Tunis le 13 mai, et la Loi n° 93-64, en son article 2, rend un texte exécutoire cinq jours après son dépôt, le jour du dépôt non compris ; la date de l’édition, le 19 janvier 2018, est éditoriale ;
 - la Loi n° 94-36 : le 23 juin 2009, date de la Loi n° 2009-33, dont la copie consolidée intègre les modifications ; la copie ne donne la date de publication au JORT d’aucune des deux lois.
 
-Chaque version figurant ici est la plus ancienne version disponible et est attribuée à son éditeur : les codes à `Imprimerie Officielle de la République Tunisienne (legislation.tn)`, la Loi n° 94-36 à `legislation-securite.tn`. Le committer est Lexifina.
+Chaque loi, décret-loi et décret du JORT, et la Constitution, est l’auteur de son propre commit et daté selon les règles de [STRUCTURE.md](STRUCTURE.md). Chaque version d’un code est la plus ancienne disponible et est attribuée à son éditeur : les codes à `Imprimerie Officielle de la République Tunisienne (legislation.tn)`, la Loi n° 94-36 à `legislation-securite.tn`. Le committer est Lexifina.
 
 ## Méthode de vérification
 
@@ -66,7 +66,7 @@ Chaque version figurant ici est la plus ancienne version disponible et est attri
 
 ## Ce qu’il ne montre pas
 
-- **L’essentiel du droit tunisien.** Seuls ces 31 textes figurent ici : ni Constitution, ni autres lois ou décrets, ni jurisprudence. La seule copie officielle en arabe de la Constitution de 2022 trouvée est une numérisation que l’OCR n’a pas pu lire ; elle a donc été écartée.
+- **L’ensemble du droit tunisien.** Les textes que l’IORT ne donne qu’en numérisation du JORT (la plupart des textes antérieurs à 1997) n’y figurent pas, pas plus que les arrêtés, les décrets nominatifs (nominations, promotions), la Constitution de 2014 ou la jurisprudence. Les codes sont chacun une version consolidée unique, non reconstruite à partir des lois modificatives.
 - **L’historique.** Chaque texte est un texte consolidé unique : les rédactions antérieures et les lois modificatives en tant que versions distinctes n’y figurent pas, pas plus que la Loi n° 94-36 telle qu’adoptée en 1994.
 - **Les modifications ultérieures.** Les modifications intervenues après la capture de l’édition de chaque code (2019 à 2021) ne sont pas appliquées.
 - **Les intitulés et les notes.** La loi ou le décret de promulgation imprimé avant un code, les intitulés des livres, titres, chapitres et sections, les notes de bas de page et les notes des éditeurs désignant la loi qui a ajouté, modifié ou abrogé un article sont omis ; un article imprimé uniquement comme abrogé conserve cette note pour texte.
@@ -79,6 +79,7 @@ Chaque version figurant ici est la plus ancienne version disponible et est attri
 | [legislation.tn](http://www.legislation.tn/fr/recherche/codes-en-vigueur) (IORT) | Portail national d’information juridique : éditions françaises consolidées des codes en vigueur | un texte consolidé par code | 30 codes, lus à partir des captures, par l’Internet Archive, des PDF du portail |
 | [legislation-securite.tn](https://legislation-securite.tn/) | Copie consolidée du texte officiel | un texte | Loi n° 94-36 telle que modifiée par la Loi n° 2009-33, consultée le 30 octobre 2026 |
 | [IORT](http://www.iort.gov.tn/) | Journal Officiel (JORT) | tel que publié | JORT n° 38 du 12 mai 2009 et n° 50 du 6 juillet 1993, pour la date du Code de l'aéronautique civile |
+| [IORT, recherche de textes](http://www.iort.gov.tn/WD120AWP/WD120Awp.exe/CONNECT/SITEIORT) | Journal Officiel (JORT) : texte intégral de chaque loi, décret-loi et décret, en arabe et en français ; page de la Constitution | tel que publié | texte HTML seulement, sans OCR ; voir [REPRODUCE.md](REPRODUCE.md) |
 
 ## Licence
 
