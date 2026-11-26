@@ -1,13 +1,32 @@
-The legal text is Tunisian legislation: Loi n° 94-36 du 24 février 1994, relative à la propriété littéraire et artistique, as amended by Loi n° 2009-33 du 23 juin 2009, and the codes in force as published by the Imprimerie Officielle de la République Tunisienne (IORT).
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables, STRUCTURE.md,
+REPRODUCE.md and the tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
 
-Official legislative texts are outside copyright in Tunisia. Article premier of Law 94-36, as amended by Law 2009-33:
+The legal text is Tunisian legislation and is not Lexifina's. Each source's own terms:
+
+1. Journal Officiel de la République Tunisienne (JORT), full text of the laws, decree-laws and decrees and the
+   French translation, as the Imprimerie Officielle de la République Tunisienne (IORT) gives them on its text
+   search, http://www.iort.gov.tn (folders lois/, decrets-lois/, decrets/). The site's footer reads "جميع الحقوق
+   محفوظة المطبعة الرسمية للجمهورية التونسية" (all rights reserved, IORT); the site has no other terms of use and no
+   robots.txt. The legal texts themselves are outside copyright (see below).
+
+2. The codes in force, in the IORT's consolidated French editions published on legislation.tn, the national legal
+   information portal (http://www.legislation.tn/fr/recherche/codes-en-vigueur), read from Internet Archive captures
+   while the portal was unavailable (folder codes/). The IORT marks its editions "Tous droits réservés".
+
+3. Loi n° 94-36 du 24 février 1994, relative à la propriété littéraire et artistique, as amended by Loi n° 2009-33
+   du 23 juin 2009, consolidated copy hosted by legislation-securite.tn
+   (https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Loi-n°-94-36-du-24-Fevrier-1994-Fr.pdf),
+   folder lois/1994/036-propriete-litteraire-et-artistique/. The site gives no licence for the text.
+
+Official legislative texts are outside copyright in Tunisia. Article premier of Law 94-36, as amended by Law
+2009-33:
 
   "La protection au titre du droit d'auteur s'étend aux expressions et ne couvre pas :
    [...] les textes officiels d'ordre législatif, administratif ou judiciaire et leurs traductions officielles."
 
-The bytes of this text come from a consolidated copy hosted by legislation-securite.tn (https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Loi-n°-94-36-du-24-Fevrier-1994-Fr.pdf), retrieved 30 October 2026. The bytes of the codes come from the IORT's consolidated French editions published on legislation.tn, the national legal information portal (http://www.legislation.tn/fr/recherche/codes-en-vigueur); the IORT marks its editions "Tous droits réservés", but the legal texts themselves are official texts outside copyright under the article quoted above. Those hosts and the Tunisian authorities do not endorse this repository.
+Those hosts and the Tunisian authorities do not endorse this repository.
 
-Changes made by Lexifina: page headers, footers and footnote markers were removed, wrapped lines were joined, and the text was arranged as one Markdown file per article and as a git commit.
-
-Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
-tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+Changes made by Lexifina: page headers, footers and footnote markers of the code editions were removed and wrapped
+lines joined; the JORT texts were cut into one Markdown file per article (preamble and closing in their own files);
+the text was arranged as git commits. No word of law was written or corrected by Lexifina.

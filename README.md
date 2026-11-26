@@ -13,7 +13,7 @@ Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un
 
 **Contenu actuel :** 31 textes, en une version chacun, totalisant 7 737 articles : 30 codes en vigueur tels que l’Imprimerie Officielle de la République Tunisienne (IORT) les a consolidés dans ses éditions françaises (le Code du travail, le Code pénal, le Code des obligations et des contrats, le Code du statut personnel et 26 autres), et la Loi n° 94-36 du 24 février 1994 relative à la propriété littéraire et artistique, telle que modifiée par la Loi n° 2009-33. Le dossier de chaque texte contient un `README.md` listant ses articles ; [`data/versions.json`](data/versions.json) donne la date et la source de chaque version.
 
-Chaque texte est un dossier avec un fichier par article : les codes se trouvent dans `code/<name>/` (`code/code-du-travail/art-0112.md` est l’article 112 du Code du travail), la Loi n° 94-36 dans `propriete-litteraire-artistique/`. Jusqu’au 11 novembre 2026, le dossier de chaque code portait son identifiant (`code-du-travail/`) ; [`data/paths.json`](data/paths.json) fait correspondre chaque identifiant à son dossier, et les étiquettes de version (`code-du-travail/2020-09-29`) conservent les identifiants.
+Chaque texte est un dossier avec un fichier par article : les codes se trouvent dans `codes/<name>/` (`codes/code-du-travail/art-0112.md` est l’article 112 du Code du travail), la Loi n° 94-36 dans `lois/1994/036-propriete-litteraire-et-artistique/`. Jusqu’au 11 novembre 2026, le dossier de chaque code portait son identifiant (`code-du-travail/`) ; [`data/paths.json`](data/paths.json) fait correspondre chaque identifiant à son dossier, et les étiquettes de version (`code-du-travail/2020-09-29`) conservent les identifiants.
 
 Le texte est en français, tiré des éditions françaises de l’IORT. Le texte qui fait foi est le texte arabe publié au Journal Officiel de la République Tunisienne (JORT) ; ni celui-ci ni une traduction anglaise ne font partie de ce corpus.
 
@@ -21,10 +21,10 @@ Le texte est en français, tiré des éditions françaises de l’IORT. Le texte
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 112 du Code du travail | `git log -p --follow --word-diff -- code/code-du-travail/art-0112.md` |
-| Quelle source a rédigé chaque ligne de l’article 112 ? | `git blame code/code-du-travail/art-0112.md` |
+| Toutes les modifications de l’article 112 du Code du travail | `git log -p --follow --word-diff -- codes/code-du-travail/art-0112.md` |
+| Quelle source a rédigé chaque ligne de l’article 112 ? | `git blame codes/code-du-travail/art-0112.md` |
 | Toutes les versions du Code du travail, avec la date d’entrée en vigueur de chacune | `git log --no-walk --tags="code-du-travail/*" --format="%h %(trailers:key=In-force,valueonly,separator=) %an"` |
-| L’article 112 tel qu’en vigueur au 1er janvier 2026 | `python tools/on.py 2026-01-01 code/code-du-travail art-0112` |
+| L’article 112 tel qu’en vigueur au 1er janvier 2026 | `python tools/on.py 2026-01-01 codes/code-du-travail art-0112` |
 
 Chaque texte n’ayant ici qu’une version, chaque liste ne comporte qu’une entrée ; `git log --follow` montre aussi le commit du 11 novembre 2026 qui a déplacé le dossier, sans modification du texte.
 
@@ -42,7 +42,7 @@ Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add tunisia/national/acts
-python3 tools/law.py show 2026-01-01 tunisia/national/acts/code/code-du-travail/art-0112.md
+python3 tools/law.py show 2026-01-01 tunisia/national/acts/codes/code-du-travail/art-0112.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

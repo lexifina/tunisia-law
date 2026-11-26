@@ -13,7 +13,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** 31 acts, one version each, with 7,737 articles: 30 codes in force as the Imprimerie Officielle de la République Tunisienne (IORT) consolidated them in its French editions (the Code du travail, the Code pénal, the Code des obligations et des contrats, the Code du statut personnel and 26 others), and Loi n° 94-36 of 24 February 1994 on literary and artistic property, as amended by Loi n° 2009-33. Each act's folder has a `README.md` listing its articles; [`data/versions.json`](data/versions.json) gives each version's day and source.
 
-Each act is a folder with one file per article: the codes are in `code/<name>/` (`code/code-du-travail/art-0112.md` is Article 112 of the Code du travail), Loi n° 94-36 in `propriete-litteraire-artistique/`. Until 11 November 2026 each code's folder was named by its id (`code-du-travail/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and the version tags (`code-du-travail/2020-09-29`) keep the ids.
+Each act is a folder with one file per article: the codes are in `codes/<name>/` (`codes/code-du-travail/art-0112.md` is Article 112 of the Code du travail), Loi n° 94-36 in `lois/1994/036-propriete-litteraire-et-artistique/`. Until 11 November 2026 each code's folder was named by its id (`code-du-travail/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and the version tags (`code-du-travail/2020-09-29`) keep the ids.
 
 The text is in French, from the IORT's French editions. The authoritative text is the Arabic one in the Journal Officiel de la République Tunisienne (JORT); it and an English translation are not part of this record.
 
@@ -21,10 +21,10 @@ The text is in French, from the IORT's French editions. The authoritative text i
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 112 of the Code du travail | `git log -p --follow --word-diff -- code/code-du-travail/art-0112.md` |
-| Which source wrote each line of Article 112? | `git blame code/code-du-travail/art-0112.md` |
+| Every change to Article 112 of the Code du travail | `git log -p --follow --word-diff -- codes/code-du-travail/art-0112.md` |
+| Which source wrote each line of Article 112? | `git blame codes/code-du-travail/art-0112.md` |
 | Every version of the Code du travail, with the day each took effect | `git log --no-walk --tags="code-du-travail/*" --format="%h %(trailers:key=In-force,valueonly,separator=) %an"` |
-| Article 112 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 code/code-du-travail art-0112` |
+| Article 112 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 codes/code-du-travail art-0112` |
 
 Each act has one version here, so each list has one entry; `git log --follow` also shows the commit of 11 November 2026 that moved the folder, with no change to the text.
 
@@ -42,7 +42,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add tunisia/national/acts
-python3 tools/law.py show 2026-01-01 tunisia/national/acts/code/code-du-travail/art-0112.md
+python3 tools/law.py show 2026-01-01 tunisia/national/acts/codes/code-du-travail/art-0112.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

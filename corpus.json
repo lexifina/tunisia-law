@@ -1,0 +1,29 @@
+{
+  "corpus": "tn/national/acts",
+  "name": "Tunisian law: the laws, decree-laws and decrees of the Journal Officiel de la République Tunisienne as the Imprimerie Officielle publishes them, in Arabic with its French translation, and the IORT's consolidated French codes",
+  "label": "Tunisia",
+  "language": "ar",
+  "languages": ["ar", "fr"],
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "JORT",
+      "Source",
+      "Kind"
+    ],
+    "time": "12:00 Africa/Tunis (UTC+1)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the law, decree-law or decree itself for a text as published in the JORT; the Imprimerie Officielle de la République Tunisienne for a consolidated code",
+  "citation": {
+    "file": "((?:codes/[^/]+)|(?:lois/[0-9]{4}/[^/]+)|(?:decrets-lois/[0-9]{4}/[^/]+)|(?:decrets/[0-9]{4}/[0-9-]+/[^/]+)|(?:lois/1994/036-[^/]+))/(?:fr/)?art-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(الفصل|فصل|article|art\\.) ?{n}\\b"
+  },
+  "sources": [
+    "http://www.iort.gov.tn",
+    "http://www.legislation.tn",
+    "https://legislation-securite.tn"
+  ]
+}
